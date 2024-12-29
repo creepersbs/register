@@ -1,0 +1,20 @@
+{
+    "description": "Sandiwa minecraft server",
+    "domain": "creepers.sbs",
+    "subdomain": "sandiwa",
+
+    "country code": "none"
+    
+    "owner": {
+        "github user": "https://github.com/micoms",
+        "email": "yurihsq1@gmail.com"
+    },
+    
+    "record": {
+           "A": "37.27.69.203",
+        "SRV": [
+            { "priority": 10, "weight": 60, "port": 8646, "target": "sandiwa.creepers.sbs" }
+        ]
+    },
+ "proxy": false
+}
