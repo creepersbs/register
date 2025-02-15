@@ -1,26 +1,13 @@
-{                                            (When registering your domain please remove all the text i added to explain to you how to register a subdomain, this included)
-    "description": "Project Description",
-    "domain": "creepers.sbs", (this is a string you have to put even if there is only one domain, more coming in the future if the service gets popular)
-    "subdomain": "example",
-
-"country code": "none", (this decides if your domain will go under any country code subdomain, such as en."domain.tld"
-    it."domain.tld" etc... if you type "none" your domain will be put under the main route under the domain...so yourdomain.creepers.sbs)
-    
+{      
+    "description": "metasearch engine",
+    "domain": "creepers.sbs",
+    "subdomain": "gonewest",
     "owner": {
-        "github user": "https://github.com/username", (required, has to be the one who's making the request)
-        "email": "cool_email@anywebsite.tld" (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "github user": "https://github.com/lionkruce01", 
+        "email": "lionkruce01@gmail.com"
     },
-                                                                                   (then choose the records: A / AAAA / CNAME / MX / TXT )                              
     "record": {
-           "A": ["1.1.1.1", "1.0.0.1"], (points to a IPv4 address)
-        "AAAA": ["::1", "::2"],   (points to a IPv6 address)
-        "CNAME": "anywebsite.tld",  (points to another sub/domain)
-        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],  (points to mail servers)
-        "TXT": ["thi_is_an_example_verification=012345678910"], (points to server, VoIP servers, MC servers...etc)
-        "SRV": [
-            { "content": "_a_srv.record", "priority": 10, "weight": 60, "port": 5060, "target": "mcsrv.anydomain.tld" },
-            { "content": "_a_srv.record", "priority": 20, "weight": 10, "port": 5061, "target": "srv.anydomain.tld" }
-        ]
+        "CNAME": "cname.vercel-dns.com."
     },
- "proxy": false/true (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
+ "proxy": false
 }
