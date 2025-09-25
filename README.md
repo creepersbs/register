@@ -1,18 +1,21 @@
-# creepers.sbs - Yet another Free Subdomain Provider 
+# creepers.sbs - Yet another Free Subdomain Provider
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
 **creepers.sbs** (*"creepers side-by-side"*) is a free subdomain provider for everyone! [**`CreeperHUB`**](https://creeperhub.net/creepersbs) offers custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
 <details> <summary>What's Offered❔</summary>
-
+ 
+---------------------
 
 * **Free Subdomains:** No hidden fees, no credit cards required.
 * **Customizable Names:** Create unique subdomains for your projects, websites, or Minecraft servers.
 * **Quick and Easy Setup:** Get your subdomain up and running in hours (soon will be added automatization).
-* **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side), or the `cloud` TLD you can use everywhere you want.
-* **Reliable DNS:** Ensure your subdomain is always accessible with a robust DNS infrastructure powered by these 3 services: <br><br>
- [![CloudDNS](https://github.com/creepersbs/.github/blob/main/profile/cloudns.png)](https://cloudns.net/) <br>
- [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com) <br>
- [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com)  
+* **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side) and the `cloud` TLD you can use everywhere you want.
+* **Reliable DNS:** Ensure your subdomain is always accessible with a robust DNS infrastructure powered by these 2 services: <br>
+------------------------------------
+| Cloudflare | Gcore |
+| ------------- | ------------- |
+| [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com)  | [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com) |
+ --------------------
 
  </details>
  
@@ -47,26 +50,33 @@ creepers.sbs is perfect for:
 
 ### 💰**Donating**
 
-I would love a [donation](https://creepers.sbs/donate) to show your support, and by doing so our domain will keep on working 100%
+We would love a [**`donation`**](https://creepers.sbs/donate) to show us your support, and by doing so our domain will keep on working 100%, as the [**`Domain Registry`**](https://creeperhub.net/domains) says.
 
 ### 📃**License**
 
 > [!NOTE]
->creepers.sbs is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+>creepers.sbs is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). <br>
+> -[**`DISCLAIMER`**](https://github.com/creepersbs/#disclaimer)-
 
 ### 📜**TERMS**
 
 > [!WARNING]
->creepers.sbs has his own terms that you **automatically agree to by using the service**, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md). ([DISCLAIMER](https://github.com/creepersbs/#disclaimer))
-
-**I'm excited to help you take control of your online presence!**
+>creepers.sbs has his own terms that you **automatically agree to by using the service**, [**`check them out (click me)`**](https://github.com/creepersbs/register/blob/main/SECURITY.md).
 
 ### Problems❓
 > [!TIP]
 >Open an issue and tell us the problem (in English), [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
 
 ### 🤝Similar services
-As previously said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)<br>
-[**`Afraid`**](https://freedns.afraid.org/)<br>
-[**`eu.org`**](https://nic.eu.org)<br>
-
+As previously said this is just **another** subdomain service, we aren't here to *compete* or anything, <br>
+we're here just to give the user **another** tool that can be used for **free**. <br>
+Which means that there are even more free subdomain providers out there, like: 
+|   |   |
+| - | - |
+| [**`js.org`**](https://js.org) | [**`Free4Life`**](https://free.hrsn.dev/#/?id=domains) |
+| [**`is-a.dev`**](https://is-a.dev/) | [**`FreeDNS`**](https://freedns.afraid.org/) |
+| [**`OpenDomains`**](https://open-domains.net/) | [**`eu.org`**](https://nic.eu.org) | 
+| [**`thedev.id`**](https://thedev.id/) | [**`Free4Dev`**](https://free-for.dev/#/?id=domain) |
+| [**`rweb.site`**](rweb.site) | [**`us.kg`**](https://nic.us.kg) | 
+| [**`foo.ng`**](foo.ng) | [**`is-epic.me`**](https://github.com/is-cool-me/register) |
+| [**`ngo.us`**](https://nic.ngo.us/) | [**`More....`**](https://github.com/abint7/free-domains?tab=readme-ov-file) |
