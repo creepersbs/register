@@ -13,6 +13,6 @@
     "record": {
         "CNAME": "dns.drscripter32.workers.dev"
     },
- "proxy": "false"
+ "proxy": false
 }
                        
