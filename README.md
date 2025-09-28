@@ -61,7 +61,8 @@ We would love a [**`donation`**](https://creepers.sbs/donate) to show us your su
 ### 📜**TERMS**
 
 > [!WARNING]
->creepers.sbs has his own terms that you **automatically agree to by using the service**, [**`check them out (click me)`**](https://github.com/creepersbs/register/blob/main/SECURITY.md).
+>creepers.sbs has his own terms that you **automatically agree to by using the service**, <br>
+>[**`check them out (click me)`**](https://github.com/creepersbs/register/blob/main/SECURITY.md).
 
 ### Problems❓
 > [!TIP]
@@ -77,6 +78,6 @@ Which means that there are even more free subdomain providers out there, like:
 | [**`is-a.dev`**](https://is-a.dev/) | [**`FreeDNS`**](https://freedns.afraid.org/) |
 | [**`OpenDomains`**](https://open-domains.net/) | [**`eu.org`**](https://nic.eu.org) | 
 | [**`thedev.id`**](https://thedev.id/) | [**`Free4Dev`**](https://free-for.dev/#/?id=domain) |
-| [**`rweb.site`**](rweb.site) | [**`us.kg`**](https://nic.us.kg) | 
-| [**`foo.ng`**](foo.ng) | [**`is-epic.me`**](https://github.com/is-cool-me/register) |
+| [**`rweb.site`**](https://rweb.site) | [**`us.kg`**](https://nic.us.kg) | 
+| [**`foo.ng`**](https://foo.ng) | [**`is-epic.me`**](https://github.com/is-cool-me/register) |
 | [**`ngo.us`**](https://nic.ngo.us/) | [**`More....`**](https://github.com/abint7/free-domains?tab=readme-ov-file) |
