@@ -1,7 +1,7 @@
 # CODEOWNERS for creepersbs/register
 
 # Global owners
-* @creeperhub/people @giocoliere
+* @creeperhub/members @giocoliere
 
 
 # .github workflows, issue templates, etc.
