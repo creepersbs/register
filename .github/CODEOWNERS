@@ -5,21 +5,21 @@
 
 
 # .github workflows, issue templates, etc.
-.github/ @creeperhub @giocoliere
+.github/ @creeperhub/members @giocoliere
 
 # domains folder (user submissions)
-domains/ @creeperhub @giocoliere
+domains/ @creeperhub/members @giocoliere
 
 # Root-level documentation & policy files
-README.md @creeperhub @giocoliere
-LICENSE @creeperhub @giocoliere
-CODE_OF_CONDUCT.md @creeperhub @giocoliere
-SECURITY.md @creeperhub @giocoliere
+README.md @creeperhub/members @giocoliere
+LICENSE @creeperhub/members @giocoliere
+CODE_OF_CONDUCT.md @creeperhub/members @giocoliere
+SECURITY.md @creeperhub/members @giocoliere
 
 # JSON template or sample configuration files
-template.json @creeperhub @giocoliere
-schema.json @creeperhub @giocoliere
+template.json @creeperhub/members @giocoliere
+schema.json @creeperhub/members @giocoliere
 
 # CI / config / YAML files
-*.yml @creeperhub @giocoliere
-*.yaml @creeperhub @giocoliere
+*.yml @creeperhub/members @giocoliere
+*.yaml @creeperhub/members @giocoliere
