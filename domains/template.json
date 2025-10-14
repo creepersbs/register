@@ -28,4 +28,5 @@ to choose the domain.(mainrecord).creepers.tld in the first field [none] and spe
     },
  "proxy": "false/true" (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
 }
-                        (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs/.cloud] YOU CAN COPY AND PASTE THE SECTION FROM "RECORD" UP TO THE END OF THE DOCUMENT [ADD ANOTHER "," AFTER THE "}" OF FIRST "PROXY"])
+(IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs/.cloud] YOU CAN COPY AND PASTE THE SECTION FROM "record" [RENAMING IT AS "record2"] UP TO THE END OF THE DOCUMENT 
+[REPLACE THE "}" WITH "," AFTER THE FIRST "proxy" AND RENAME THE SECOND PROXY AS "proxy2"])
