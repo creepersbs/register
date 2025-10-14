@@ -1,0 +1,25 @@
+# CODEOWNERS for creepersbs/register
+
+# Global owners
+* @creeperhub @giocoliere
+
+
+# .github workflows, issue templates, etc.
+.github/ @creeperhub @giocoliere
+
+# domains folder (user submissions)
+domains/ @creeperhub @giocoliere
+
+# Root-level documentation & policy files
+README.md @creeperhub @giocoliere
+LICENSE @creeperhub @giocoliere
+CODE_OF_CONDUCT.md @creeperhub @giocoliere
+SECURITY.md @creeperhub @giocoliere
+
+# JSON template or sample configuration files
+template.json @creeperhub @giocoliere
+schema.json @creeperhub @giocoliere
+
+# CI / config / YAML files
+*.yml @creeperhub @giocoliere
+*.yaml @creeperhub @giocoliere
