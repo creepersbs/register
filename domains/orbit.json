@@ -1,16 +1,17 @@
-{                                           
+{   "title": "DNS(doh) Service",                          
     "description": "DNS(doh) Service",
     "domain": "creepers.sbs",
     "subdomain": "orbit",
 
-"country code": "none",
+"country_code": "none",
     
     "owner": {
-        "github user": "https://github.com/chatgpt-userIHJSUGYEF",
+        "github_user": "https://github.com/chatgpt-userIHJSUGYEF",
         "email": "gotuser4055@gmail.com"
     },
                                                                                               
     "record": {
+        "spare_record": ["none"],
         "CNAME": "dns.drscripter32.workers.dev"
     },
  "proxy": false

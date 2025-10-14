@@ -1,0 +1,129 @@
+{   "title": "Title of the website",
+	"description": "Template to register Both domains for complete.template.creepers.sbs/cloud with multiple records + mutiple spare records for each tld. Delete the text in the () as it's just to explain.",
+	"domain": "creepers.sbs",
+	"subdomain": "complete.template (remember that this has to be the exact same as the file name and it's the actual subdomain you will use for both sbs and cloud tlds)",
+	"country_code": "none",
+	"owner": {
+		"github_user": "https://github.com/username",
+		"email": "very_cool_email@anywebsite.tld",
+		"discord": "@this.is.a.discord.username"
+	},
+	"record": {
+		"spare_record": [
+			"mc (mc.complete.template.creepers.sbs)",
+			"A / AAAA / CNAME / MX / etc...",
+            "target"
+		],
+        "spare_record_2": [
+			"smth._domainkey (smth._domainkey.complete.template.creepers.sbs)",
+			"A / AAAA / CNAME / MX / etc...",
+            "target"
+		],
+        "spare_record_3": [
+			"docs (docs.complete.template.creepers.sbs)",
+			"A / AAAA / CNAME / MX / etc...",
+            "target"
+		],
+		"A": [
+			"1.1.1.1",
+			"1.0.0.1"
+		],
+		"AAAA": [
+			"::1",
+			"::2"
+		],
+		"CNAME": 
+            "anywebsite.tld",
+		"MX": [
+			"mx1.anywebsite.tld",
+			"mx2.anywebsite.tld"
+		],
+        "NS": [
+			"ns1.anywebsite.tld",
+			"ns2.anywebsite.tld",
+            "ns3.anywebsite.tld",
+            "ns4.anywebsite.tld",
+            "ns5.anywebsite.tld"
+		],
+		"TXT": [
+			"thi_is_an_example_verification=012345678910"
+		],
+		"SRV": [
+			{
+				"content": "_a_srv.record",
+				"priority": 10,
+				"weight": 60,
+				"ttl": "auto",
+				"port": 5060,
+				"target": "mcsrv.anydomain.tld"
+			},
+			{
+				"content": "_a_srv.record",
+				"priority": 20,
+				"weight": 10,
+				"ttl": "auto",
+				"port": 5061,
+				"target": "srv.anydomain.tld"
+			}
+		]
+	},
+	"proxy": "false/true",
+
+
+    
+    "domain_2": "creepers.cloud",
+	"record_2": {
+		"spare_record": [
+			"anotherone (anotherone.complete.template.creepers.cloud)",
+			"A / AAAA / CNAME / MX / etc...",
+            "target"
+		],
+        "spare_record_2": [
+			"yetanotherone (yetanotherone.complete.template.creepers.cloud)",
+			"A / AAAA / CNAME / MX / etc...",
+            "target"
+		],
+		"A": [
+			"1.1.1.1",
+			"1.0.0.1"
+		],
+		"AAAA": [
+			"::1",
+			"::2"
+		],
+		"CNAME": "anywebsite.tld",
+		"MX": [
+			"mx1.anywebsite.tld",
+			"mx2.anywebsite.tld"
+		],
+        "NS": [
+			"ns1.anywebsite.tld",
+			"ns2.anywebsite.tld",
+            "ns3.anywebsite.tld",
+            "ns4.anywebsite.tld",
+            "ns5.anywebsite.tld"
+		],
+		"TXT": [
+			"thi_is_an_example_verification=012345678910"
+		],
+		"SRV": [
+			{
+				"content": "_a_srv.record",
+				"priority": 10,
+				"weight": 60,
+				"ttl": "auto",
+				"port": 5060,
+				"target": "mcsrv.anydomain.tld"
+			},
+			{
+				"content": "_a_srv.record",
+				"priority": 20,
+				"weight": 10,
+				"ttl": "auto",
+				"port": 5061,
+				"target": "srv.anydomain.tld"
+			}
+		]
+	},
+	"proxy_2": "false/true"
+}

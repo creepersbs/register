@@ -1,18 +1,18 @@
-{                                           
+{   "title": "A personal Documentation website",
     "description": "A personal Documentation website",
     "domain": "creepers.sbs",
     "subdomain": "wlj",
 
-"country code": "none" 
+"country_code": "none",
     
     "owner": {
-        "github user": "https://github.com/a-wlj-ddns-ip-net", 
+        "github_user": "https://github.com/a-wlj-ddns-ip-net", 
         "email": "aaa@wlj.ddns-ip.net" 
     },
                                                                                                            
     "record": {
-          
-        "NS": "ns1.desec.io", "ns2.desec.org"
+           "spare_record": ["none"],
+        "NS": ["ns1.desec.io", "ns2.desec.org"]
            },
  "proxy": false
 }

@@ -1,18 +1,35 @@
-{                                           
-    "description": "Testing",
-    "domain": "creepers.sbs",
-    "subdomain": "@",
+{
+  "title": "creepers.sbs - Free subdomains for everyone",
+  "description": "EU REGION",
+  "domain": "creepers.sbs",
+  "subdomain": "@",
 
-"country code": "eu" 
-    
-    "owner": {
-        "github user": "https://github.com/giocoliere", 
-        "email": "giocoliere@proton.me" 
-    },
-                                                                                                           
-    "record": {
-          
-        "NS": "ns51.cloudns.net", "ns52.cloudns.net", "ns53.cloudns.net", "ns54.cloudns.net"
-           },
- "proxy": false
+  "country_code": "eu",
+  
+  "owner": {
+    "github_user": "https://github.com/creepersbs",
+    "email": "hello@creeperhub.net",
+    "discord": "creeperhub"
+  },
+  "record": {
+    "spare_record": ["none"],
+    "NS": [
+      "ns51.cloudns.net",
+      "ns52.cloudns.net",
+      "ns53.cloudns.net",
+      "ns54.cloudns.net"
+    ],
+    "proxy": false
+  },
+  "domain_2": "creepers.cloud",
+  "record_2": {
+    "spare_record": ["none"],
+    "NS": [
+      "ns51.cloudns.net",
+      "ns52.cloudns.net",
+      "ns53.cloudns.net",
+      "ns54.cloudns.net"
+    ],
+    "proxy": false
+  }
 }

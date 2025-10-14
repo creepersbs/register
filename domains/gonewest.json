@@ -1,12 +1,16 @@
-{
+{   "title": "Metasearch engine",
     "description": "metasearch engine",
     "domain": "creepers.sbs",
     "subdomain": "gonewest",
+
+"country_code": "none", 
+
     "owner": {
-        "github user": "https://github.com/lionkruce01",
+        "github_user": "https://github.com/lionkruce01",
         "email": "lionkruce01@gmail.com"
     },
     "record": {
+        "spare_record": ["none"],
         "NS": [
             "ns1.desec.io",
             "ns2.desec.org"

@@ -1,16 +1,17 @@
-{
+{   "title": "Custom survival server",
     "description": "Custom survival server",
     "domain": "creepers.cloud",
     "subdomain": "nexamc",
 
-"country code": "none",
+"country_code": "none",
     
     "owner": {
-        "github user": "https://github.com/Fra-McNaples",
+        "github_user": "https://github.com/Fra-McNaples",
         "email": "booxquestion@gmail.com"
     },
                         
     "record": {
+        "spare_record": ["none"],
         "A": ["65.109.79.50"],
         "SRV": [
             {

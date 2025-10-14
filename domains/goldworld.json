@@ -1,16 +1,18 @@
-{                                           
+{   "title": "Donate Site",
     "description": "Donate Site",
-    "domain": "creepers.sbs", 
+    "domain": "creepers.sbs",
     "subdomain": "goldworld",
 
+"country_code": "none", 
+    
     "owner": {
-        "github user": "https://github.com/Hfsgyyrtg635"
-        "email": "smertkupilasmert@gmail.com"
+        "github_user": "https://github.com/Hfsgyyrtg635", 
+        "email": "smertkupilasmert@gmail.com" 
     },
-                                                        
+                                                                                                           
     "record": {
-        
+        "spare_record": ["none"],
         "CNAME": "goldworlds.easydonate.ru"
-        
+           },
  "proxy": false
 }

@@ -1,13 +1,16 @@
-{
+    {"title": "Minecraft Server",
     "description": "Minecraft Server",
     "domain": "creepers.sbs",
     "subdomain": "2nd",
-    "country code": "none",
+
+    "country_code": "none",
+    
     "owner": {
-        "github user": "https://github.com/Hydr46605",
+        "github_user": "https://github.com/Hydr46605",
         "email": "bryamjamb@proton.me"
     },
     "record": {
+        "spare_record": ["none"], 
         "A": ["3.70.224.98"],
         "SRV": [
             {

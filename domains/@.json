@@ -1,16 +1,29 @@
-{                                           
-    "description": "Official",
-    "domain": "creepers.sbs", 
-    "subdomain": "www",
+{   "title": "creepers.sbs - Free subdomains for everyone",
+    "description": "Official subdomain",
+    "domain": "creepers.sbs",
+    "subdomain": "@",
 
+"country_code": "none",
+
+    
     "owner": {
-        "github user": "https://github.com/creepersbs"
-        "email": "support@creepercraft.store"
+        "github_user": "https://github.com/creepersbs",
+        "email": "hello@creeperhub.net",
+        "discord": "creeperhub"
     },
-                                                        
+                                                                                                       
     "record": {
-        
-        "CNAME": "creepersbs.github.io"
-        
- "proxy": false
+"spare_record": ["none"], 
+        "CNAME": "creepersbs.github.io"  
+    },
+ "proxy": "false",
+
+
+    
+    "domain_2": "creepers.cloud",
+	"record_2": {
+		"spare_record": ["none"],
+		"CNAME": "creepersbs.github.io"
+	},
+	"proxy_2": "false"
 }

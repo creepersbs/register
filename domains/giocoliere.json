@@ -1,18 +1,29 @@
-{                                           
-    "description": "A personal Documentation website",
+{   "title": "A personal Documentation website",
+    "description": "Documentation test for docusaurus",
     "domain": "creepers.sbs",
     "subdomain": "giocoliere",
 
-"country code": "none" 
+"country_code": "none",
+
     
     "owner": {
-        "github user": "https://github.com/giocoliere", 
-        "email": "giocoliere@proton.me" 
+        "github_user": "https://github.com/giocoliere",
+        "email": "giocoliere@proton.me",
+        "discord": "giocoliere"
     },
-                                                                                                           
+                                                                                                       
     "record": {
-          
-        "CNAME": "gioco-docs.netlify.app",  
-           },
- "proxy": false
+"spare_record": ["none"], 
+        "CNAME": "gioco-docs.netlify.app"  
+    },
+ "proxy": "false",
+
+
+    
+    "domain_2": "creepers.cloud",
+	"record_2": {
+		"spare_record": ["none"],
+		"CNAME": "gioco-docs.netlify.app"
+	},
+	"proxy_2": "false"
 }

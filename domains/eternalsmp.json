@@ -1,16 +1,17 @@
-{
+{   "title": "eternal minecraft server",
     "description": "eternal minecraft server",
     "domain": "creepers.sbs",
     "subdomain": "eternalsmp",
 
-    "country code": "none",
+    "country_code": "none",
     
     "owner": {
-        "github user": "https://github.com/micoms",
+        "github_user": "https://github.com/micoms",
         "email": "yurihsq1@gmail.com"
     },
     
     "record": {
+        "spare_record": ["none"],
            "A": "34.126.70.162",
         "SRV": [
             { "priority": 10, "weight": 60, "port": 25588, "target": "eternalsmp.creepers.sbs" }

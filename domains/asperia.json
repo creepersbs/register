@@ -1,16 +1,17 @@
-{
+{   "title": "asperia minecraft server",
     "description": "asperia minecraft server",
     "domain": "creepers.sbs",
     "subdomain": "asperia",
 
-    "country code": "none",
+    "country_code": "none",
     
     "owner": {
-        "github user": "https://github.com/micoms",
+        "github_user": "https://github.com/micoms",
         "email": "yurihsq1@gmail.com"
     },
 
     "record": {
+        "spare_record": ["none"], 
         "A": [ "112.203.63.48" ],
         "SRV": [
             {
@@ -23,6 +24,6 @@
                 "target": "asperia.creepers.sbs"
             }
         ]
-    }
+    },
  "proxy": false
 }
