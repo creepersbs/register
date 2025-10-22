@@ -1,0 +1,19 @@
+{   "title": "effective's personal webpage",
+    "description": "effective personal webpage with stuff like links and stuff",
+    "domain": "creepers.cloud",
+    "subdomain": "sxlphuric",
+
+    "country_code": "none",
+    
+    "owner": {
+        "github_user": "https://github.com/richel265",
+        "email": "rnssaketo@proton.me"
+        "discord": "@sxlphuric"
+    },
+    
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "effectivement.vercel.app",
+    },
+ "proxy": false
+}
