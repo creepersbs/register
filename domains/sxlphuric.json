@@ -7,13 +7,13 @@
     
     "owner": {
         "github_user": "https://github.com/richel265",
-        "email": "rnssaketo@proton.me"
+        "email": "rnssaketo@proton.me",
         "discord": "@sxlphuric"
     },
     
     "record": {
         "spare_record": ["none"],
-        "CNAME": "effectivement.vercel.app",
+        "CNAME": "effectivement.vercel.app"
     },
  "proxy": false
 }
