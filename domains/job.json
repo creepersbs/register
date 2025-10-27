@@ -1,0 +1,18 @@
+{   "title": "A personal portfolio website",
+    "description": "portfolio uh",
+    "domain": "creepers.sbs",
+    "subdomain": "job",
+
+"country_code": "none",
+    
+    "owner": {
+        "github_user": "https://github.com/FWEEaaaa1", 
+        "email": "gorgonfweman@outlook.com" 
+    },
+                                                                                                           
+    "record": {
+           "spare_record": ["none"],
+        "NS": ["dns1.serv00.com", "dns2.serv00.com"]
+           },
+ "proxy": false
+}
