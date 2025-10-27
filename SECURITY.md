@@ -2,12 +2,12 @@
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
 ## Contract  
 By using the service, you allow (CreeperHUB/Giocoliere [Referred as "CH"]) to manually remove your website/server/subdomain in the event of a breach of the Code of Conduct, and to verify your use of our service. Your service/website/etc. will be checked whenever CH choose to do so. If you are banned and believe it to be a false ban, please contact us at [`hello@creeperhub.net`](mailto:hello@creeperhub.net)/[`Contact Form`](https://creeperhub.net/contact).  
-By using this service, you also agree that we will not use the following list of domains if under the main creepers.sbs root:  
+By using this service, you also agree that you will not use the following list of domains if under the main creepers.sbs root:  
 1 - `any country/continent code`, such as **`en.creepers.sbs`**, **`eu.creepers.sbs`** `or others like that`, (you are allowed to use any subdomains of country codes only like this: `smth.en.creepers.sbs`)  
 2 - `shop, store, or ecommerce` domains that may be misunderstood as official creepers.sbs shops  
 3 - `mc or play` domains, as we do not have an official Minecraft server: you can still use `mc/play.yourservername.creepers.sbs`  
 4 - `about, translate, status, whois, and any other official subdomain...` since those domains are planned for use by creepers.sbs's own project  
-5 - `all the domains listed in the reserved folder`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved/list.json)  
+5 - `all the domains listed in the reserved folder list`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved/list.json)  
 6 - `any social name`, as our official socials cannot be misunderstood by any subdomain you might register  
 
 ### Responsibility  
