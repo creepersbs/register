@@ -1,0 +1,20 @@
+{
+    "title": "Minecraft server",
+    "description": "Minecraft server",
+    "domain": "creepers.sbs",
+    "subdomain": "suklaamaa",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/Juliasmatius",
+        "email": "juli@julimiro.eu"
+    },
+    "record": {
+        "spare_record": [
+            "none"
+        ],
+        "CNAME": [
+            "juli.yiff.fi"
+        ]
+    },
+    "proxy": false
+}
