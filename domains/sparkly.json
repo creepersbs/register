@@ -13,7 +13,7 @@
       "ns1.vercel-dns.com",
       "ns2.vercel-dns.com"
     ],
-    "CNAME": "2d99cdf13200145f.vercel-dns-017.com."
+    "CNAME": "2d99cdf13200145f.vercel-dns-017.com"
   },
   "proxy": false
 }
