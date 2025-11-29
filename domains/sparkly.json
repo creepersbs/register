@@ -1,0 +1,18 @@
+{
+  "title": "Sparkly",
+  "description": "The best unblocked games site.",
+  "domain": "creepers.sbs",
+  "subdomain": "sparkly",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/rilwag2612",
+    "email": "rilwag2612@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "ns1.vercel-dns.com",
+      "ns2.vercel-dns.com"
+    ]
+  },
+  "proxy": false
+}
