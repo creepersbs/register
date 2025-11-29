@@ -14,5 +14,5 @@
       "ns2.vercel-dns.com"
     ]
   },
-  "proxy": "false"
+  "proxy": false
 }
