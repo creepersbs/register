@@ -1,0 +1,15 @@
+{   "title": "Search Page",
+    "description": "Search Page",
+    "domain": "creepers.cloud",
+    "subdomain": "search",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/OshekharO/",
+        "email": "omeepd009@gmail.com"
+    },                         
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "oshekharo.github.io"
+    },
+    "proxy": "false"
+}
