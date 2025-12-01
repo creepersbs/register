@@ -1,0 +1,16 @@
+{
+  "title": "MAXVEL187",
+  "description": "Landing page alternative domain for fileshare free service",
+  "domain": "maxvel.creepers.sbs",
+  "subdomain": "sparkly",
+  "country_code": null,
+  "owner": {
+    "github_user": "https://github.com/MAXVEL187",
+    "email": "m@05050101.xyz"
+  },
+  "record": {
+    "spare_record": ["TXT", "_vercel", "vc-domain-verify=maxvel.creepers.sbs,9c1a193d2a9f9ec2cc97"],
+    "CNAME": "b6e7c84db676792c.vercel-dns-017.com"
+  },
+  "proxy": false
+}
