@@ -3,7 +3,7 @@
   "description": "Landing page alternative domain for fileshare free service",
   "domain": "maxvel.creepers.sbs",
   "subdomain": "sparkly",
-  "country_code": "none",
+  "country_code": null,
   "owner": {
     "github_user": "https://github.com/MAXVEL187",
     "email": "m@05050101.xyz"
