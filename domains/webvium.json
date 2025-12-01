@@ -1,0 +1,15 @@
+{   "title": "Webvium Search Page",
+    "description": "A modern, privacy-focused search portal with multiple search engine options",
+    "domain": "creepers.cloud",
+    "subdomain": "webvium",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/OshekharO/",
+        "email": "omeepd009@gmail.com"
+    },                         
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "oshekharo.github.io"
+    },
+    "proxy": "false"
+}
