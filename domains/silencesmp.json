@@ -1,0 +1,28 @@
+{   "title": "silencesmp",
+    "description": "Website",
+    "domain": "creepers.sbs",
+    "subdomain": "example",
+
+"country_code": "none",
+    
+    "owner": {
+        "github_user": "https://github.com/Scalamobile", (required, has to be the one who's making the request)
+        "email": "idkscalamobile@gmail.com",
+        "discord": "scalamobile" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support. Especially to transfer the subdomain to another person. 
+If you add this field you'll be contacted/can contact the support only if you're on the official CreeperHUB discord server) 
+    }, (then choose the records among A / AAAA / CNAME / NS / MX / TXT / etc... )                              
+    "record": {
+"spare_record": ["none"],
+           "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "anywebsite.tld",
+        "MX": [ "mx1.anywebsite.tld", "mx2.anywebsite.tld" ],
+        "NS": [ "ns1.anywebsite.tld", "ns2.anywebsite.tld", "ns3.anywebsite.tld", "ns4.anywebsite.tld", "ns5.anywebsite.tld" ], 
+        "TXT": ["thi_is_an_example_verification=012345678910"],
+        "SRV": [                                                                                                                       
+            { "content": "_a_srv.record", "priority": 10, "weight": 60, "ttl": "auto", "port": 5060, "target": "mcsrv.anydomain.tld" },
+            { "content": "_a_srv.record", "priority": 20, "weight": 10, "ttl": "auto", "port": 5061, "target": "srv.anydomain.tld" }
+        ]
+    },
+ "proxy": "false"
+}
