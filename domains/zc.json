@@ -1,0 +1,21 @@
+{
+    "title": "Z Cloud",
+    "description": "Selfhosted Server",
+    "domain": "creepers.sbs",
+    "subdomain": "zc",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/hoangx4",
+        "email": "hoangxg4@gmail.com"
+    },
+    "record": {
+        "spare_record": [
+            "none"
+        ],
+        "NS": [
+            "ns1.onii.pp.ua",
+            "ns2.onii.pp.ua"
+        ]
+    },
+    "proxy": "false"
+}
