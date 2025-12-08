@@ -1,0 +1,33 @@
+{
+  "title": "silencesmp",
+  "description": "Minecraft Server",
+  "domain": "creepers.sbs",
+  "subdomain": "silencesmp",
+
+  "country_code": "none",
+
+  "owner": {
+    "github_user": "https://github.com/Scalamobile",
+    "email": "idkscalamobile@gmail.com",
+    "discord": "scalamobile"
+  },
+
+  "record": {
+    "spare_record": ["none"],
+
+    "A": ["185.217.127.231"],
+
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 0,
+        "ttl": "auto",
+        "port": 25565, 
+        "target": "silencesmp.creepers.sbs"
+      }
+    ]
+  },
+
+  "proxy": "false"
+}
