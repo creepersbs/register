@@ -1,0 +1,6 @@
+{
+  "domain": "nimerserver",
+  "records": {
+    "A": ["198.1.195.170"]
+  }
+}
