@@ -1,18 +1,18 @@
 {   "title": "GlobalwideGames",
     "description": "A website that hosts html games",
-    "domain": "creepers.sbs", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
-    "subdomain": "example", (in this case there should be template as this fiel is always the exact same as the file name)
+    "domain": "creepers.sbs", 
+    "subdomain": "example", 
 
 "country_code": "none",
     
     "owner": {
-        "github_user": "https://github.com/doxjosh", (required, has to be the one who's making the request)
-        "email": "theglobegames@gmail.com", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "github_user": "https://github.com/doxjosh",
+        "email": "theglobegames@gmail.com", 
         "discord": "optional"  
     },                       
     "record": {
 "spare_record": ["none"],
-           "A": ["185.199.108.153", "185.199.109.153"], (points to a IPv4 address) 
+           "A": ["185.199.108.153", "185.199.109.153"],
         ]
     },
  "proxy": "false"
