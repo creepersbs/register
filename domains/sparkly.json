@@ -9,7 +9,8 @@
     "email": "rilwag2612@gmail.com"
   },
   "record": {
-    "spare_record": ["TXT", "_vercel", "vc-domain-verify=sparkly.creepers.sbs,5dc993f3997c7b8684bb"],
+    "spare_record_1": ["TXT", "_vercel", "vc-domain-verify=sparkly.creepers.sbs,5dc993f3997c7b8684bb"],
+    "spare_record_2": ["TXT", "sparkly", "zoho-verification=zb93735148.zmverify.zoho.eu"],
     "CNAME": "2d99cdf13200145f.vercel-dns-017.com"
   },
   "proxy": false
