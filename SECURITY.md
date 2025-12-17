@@ -6,7 +6,7 @@ By using this service, you also agree that you will not use the following list o
 1 - `any country/continent code`, such as **`en.creepers.sbs`**, **`eu.creepers.sbs`** `or others like that`, (you are allowed to use any subdomains of country codes only like this: `smth.en.creepers.sbs`)  
 2 - `shop, store, or ecommerce` domains that may be misunderstood as official creepers.sbs shops  
 3 - `mc or play` domains, as we do not have an official Minecraft server: you can still use `mc/play.yourservername.creepers.sbs`  
-4 - `about, translate, status, whois, and any other official (or similar) subdomain...` since those domains are planned for use by creepers.sbs's own project/they can't be confused to avoid scam issues. 
+4 - `about, translate, status, whois, and any other official (or similar) subdomain...` since those domains are planned for use by creepers.sbs's own project/they can't be confused to avoid scam issues.  
 5 - `all the domains listed in the reserved folder list`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved/list.json)  
 6 - `any social name`, as our official socials cannot be misunderstood by any subdomain you might register  
 
