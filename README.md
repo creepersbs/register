@@ -33,7 +33,7 @@ creepers.sbs is perfect for:
 2. [**`Star`**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) and [Fork](https://github.com/creepersbs/register/fork) this repository.
 3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder called as you would love your domain to look like, something like this: `example.json`.
 4. Fill up the information like showcased in the [`template.json`](https://github.com/creepersbs/register/blob/main/domains/template.json) file. (up to 3 domains x user) <br>
-  (**Optionally**) There is also the [`complete.template.json`](https://github.com/creepersbs/register/blob/main/domains/complete.template.json) which is a more complete and will teach you how to request the `same domain` using **both** TLDs **at the same time**
+  (**Optionally**) There is also the [`complete.template.json`](https://github.com/creepersbs/register/blob/main/domains/complete.template.json) which is complete of everything and will teach you how to request the `same domain` using **both** TLDs **at the same time**
 5. [**`Make a pull request`**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and wait for an approval, the subdomain would take up to 24h to proceed (maybe even more, still within 1 week)
 6. Enjoy 🤩<br>
 
