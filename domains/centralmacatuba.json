@@ -1,0 +1,39 @@
+{   "title": "Central Macatuba", 
+    "description": "Central Macatuba, site comunitario da cidade",
+    "domain": "creepers.sbs", 
+    "subdomain": "centralmacatuba",
+    "country_code": "none",
+    
+    "owner": {
+        "github_user": "https://github.com/centralmacatuba", 
+        "email": "centralmacatuba@gmail.com",
+        "discord": "centralmacatuba"                             
+  },
+ "record": {
+    "CNAME": "centralmacatuba.eu.org",
+    "NS": "dns.centralmacatuba.eu.org",
+     
+   "spare_record": [
+        "centralmacatuba._domainkey",
+        "TXT",
+        "centralmacatuba-domain-verification=centralmacatuba.creepers.sbs"
+    ]
+  },
+   "proxy": "true"
+}
+
+
+{
+    "domain_2": "creepers.cloud",
+	"record_2": {
+    "CNAME": "centralmacatuba.eu.org",
+    "NS": "dns.centralmacatuba.eu.org",
+        
+   "spare_record": [
+        "centralmacatuba._domainkey",
+        "TXT",
+        "centralmacatuba-domain-verification=centralmacatuba.creepers.cloud"
+    ]
+  },
+	"proxy_2": "true"
+}
