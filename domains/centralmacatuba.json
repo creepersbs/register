@@ -19,11 +19,7 @@
         "centralmacatuba-domain-verification=centralmacatuba.creepers.sbs"
     ]
   },
-   "proxy": "true"
-}
-
-
-{
+   "proxy": "true",
     "domain_2": "creepers.cloud",
 	"record_2": {
     "CNAME": "centralmacatuba.eu.org",
