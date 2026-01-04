@@ -1,1 +1,14 @@
-
+{
+    "domain": "creepers.sbs",
+    "subdomain": "theunstablesmp",
+    "records": [
+        {
+            "type": "SRV",
+            "name": "_minecraft._tcp",
+            "priority": 10,
+            "weight": 5,
+            "port": 56551,
+            "target": "16.ip.gl.ply.gg"
+        }
+    ]
+}
