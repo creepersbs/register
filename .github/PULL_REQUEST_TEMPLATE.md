@@ -1,10 +1,3 @@
----
-name: Subdomain Request / Update
-about: Template for submitting a new subdomain request, DNS update, or TLD transfer
-title: "[SUBDOMAIN REQUEST] Your desired subdomain"
-labels: open
-assignees: giocoliere
----
 
 # 📌 Type of Pull Request
 
@@ -19,9 +12,9 @@ assignees: giocoliere
 
 # 👤 Your Information
 
-- **GitHub Username / Discord Username**:  
+- **GitHub Username**:  
 - **Email Address**:  
-
+- Discord Username (optional): 
 ---
 
 # 🌐 Subdomain Request Details
@@ -54,3 +47,4 @@ By submitting this Pull Request, I confirm that:
 
 > ⚠ Note for reviewers:  
 > Check that the request follows the template and does not violate restricted or reserved subdomain rules.
+
