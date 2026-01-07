@@ -38,7 +38,7 @@ please report it responsibly.
 
 -  **High-risk or sensitive issues only**  
   You may contact the maintainer directly on GitHub - Discord:  
-  [**`@giocoliere`**](`https://github.com/giocoliere`) - [**`@.giocoliere`**](`https://gioco.lol/discord`)
+  [**`@giocoliere`**](https://github.com/giocoliere) - [**`@.giocoliere`**](https://gioco.lol/discord)
 
 Please **do not publicly disclose** security issues before contacting us.
 
