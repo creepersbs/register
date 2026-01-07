@@ -1,5 +1,5 @@
-{   "title": "A personal Documentation website",
-    "description": "Documentation test for docusaurus",
+{   "title": "A personal website",
+    "description": "Just a preset as of now",
     "domain": "creepers.sbs",
     "subdomain": "imgioco",
 
@@ -26,4 +26,5 @@
 		"CNAME": "gioco-docs.netlify.app"
 	},
 	"proxy_2": "false"
+
 }
