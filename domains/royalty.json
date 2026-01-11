@@ -1,0 +1,19 @@
+{
+  "title": "Royalty SMP Short Links",
+  "description": "A website where I can create short-links for Royalty SMP",
+  "domain": "creepers.sbs",
+  "subdomain": "royalty",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/royalty-smp",
+    "email": "sylvia.rose@anime-oni.is-a.dev",
+    "discord": "anime_oni"
+  },
+  "record": {
+    "spare_record": [
+      "none"
+    ],
+    "CNAME": "royalty-smp.github.io"
+  },
+  "proxy": "true"
+}
