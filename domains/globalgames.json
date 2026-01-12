@@ -2,12 +2,11 @@
     "title": "GlobalwideGames",
     "description": "A website that hosts html games",
     "domain": "creepers.sbs",
-    "subdomain": "example",
+    "subdomain": "globalgames",
     "country_code": "none",
     "owner": {
         "github_user": "https://github.com/doxjosh",
         "email": "theglobegames@gmail.com",
-        "discord": "optional"
     },
     "record": {
         "spare_record": [
