@@ -1,0 +1,15 @@
+{   "title": "Incognito Link",
+    "description": "Proxy link to bypass web restrictions",
+    "domain": "creepers.sbs",
+    "subdomain": "learning",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/thisisanalthowcool",
+        "email": "thisisanalthowcool@gmail.com"
+    },                         
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "incognito-l69l.onrender.com"
+    },
+    "proxy": "false"
+}
