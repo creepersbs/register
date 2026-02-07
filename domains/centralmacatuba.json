@@ -11,13 +11,13 @@
         "discord": "centralmacatuba"                             
   },
  "record": {
-    "NS": ["ns1.dns.centralmacatuba.eu.org", "ns2.dns.centralmacatuba.eu.org"]        
+    "NS": ["ns1.dns.centralmacatuba.qzz.io", "ns2.dns.centralmacatuba.qzz.io"]        
   },
    "proxy": "false",
 	
     "domain_2": "creepers.cloud",
 	"record_2": {
-    "NS": ["ns1.dns.centralmacatuba.eu.org", "ns2.dns.centralmacatuba.eu.org"]        
+    "NS": ["ns1.dns.centralmacatuba.qzz.io", "ns2.dns.centralmacatuba.qzz.io"]        
   },
 	"proxy_2": "false"
 }
