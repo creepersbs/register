@@ -1,0 +1,32 @@
+{   "title": "Lowpixel", (When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
+    "description": "Minecraft Server",
+    "domain": "creepers.sbs", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
+    "subdomain": "lowpixel", (in this case there should be template as this fiel is always the exact same as the file name)
+
+"country_code": "en", (this decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
+    if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs)
+    
+    "owner": {
+        "github_user": "https://github.com/m0rt64yt-lab", (required, has to be the one who's making the request)
+        "email": "m0rt64yt@gmail.com", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support. Especially to transfer the subdomain to another person. 
+If you add this field you'll be contacted/can contact the support only if you're on the official CreeperHUB discord server) 
+    }, (then choose the records among A / AAAA / CNAME / NS / MX / TXT / etc... )                              
+    "record": {
+"spare_record": ["none", "CNAME", "tld", "target"], (To avoid domain conflicts (such as having the same record in both CNAME and A), you can use this section 
+to choose the spare-record.(mainrecord).creepers.tld in the first field [none] and specify which record [A / AAAA / CNAME / MX / etc...] goes in that field, finally choose the target)
+(YOU ADD AS MANY SPARE RECORDS AS YOU WANT... JUST ADD COPY THE SECTION AND ADD / MODIFY THE NUMBERS AT THE END [spare_record_2 / spare_record_3 / etc...])
+           "A": ["1.1.1.1", "1.0.0.1"], (points to a IPv4 address) 
+        "AAAA": ["::1", "::2"],   (points to a IPv6 address) 
+        "CNAME": "graphics-problem.gl.joinmc.link",  (points to another sub/domain. ⚠️ CURRENTLY DOES NOT WORK WITH ANOTHER CLOUDFLARE ACCOUNT / WORKER, FOR THOSE USE ANY OTHER COUNTRY REGION EX .eu ⚠️) (As a reminder A CNAME cannot exist alongside any other domain with the same name unless it's a TXT record)
+        "MX": [ "mx1.anywebsite.tld", "mx2.anywebsite.tld" ],  (points to mail servers)
+        "NS": [ "ns1.anywebsite.tld", "ns2.anywebsite.tld", "ns3.anywebsite.tld", "ns4.anywebsite.tld", "ns5.anywebsite.tld" ], (points to Nameservers)
+        "TXT": ["thi_is_an_example_verification=012345678910"], (it's usually a domain verification)
+        "SRV": [                                                                                                                        (points to server, VoIP servers, MC servers...etc)
+            { "content": "_a_srv.record", "priority": 10, "weight": 60, "ttl": "auto", "port": 5060, "target": "mcsrv.anydomain.tld" },
+            { "content": "_a_srv.record", "priority": 20, "weight": 10, "ttl": "auto", "port": 5061, "target": "srv.anydomain.tld" }
+        ]
+    },
+ "proxy": "false" (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
+ (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs + .cloud] YOU CAN USE "complete.template.json" AS REFERENCE)
+}
