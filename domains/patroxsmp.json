@@ -1,0 +1,46 @@
+{
+    "title": "PatroxSMP",
+    "description": "",
+    "domain": "creepers.cloud",
+    "subdomain": "patroxsmp",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/Patroxxx",
+        "email": "justpatroxcontact@gmail.com",
+        "discord": "patrixtito"
+    },
+    "record": {
+        "spare_record": ["none", "CNAME", "tld", "target"],
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "following-literally.gl.joinmc.link",
+        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],
+        "NS": [
+            "ns1.anywebsite.tld",
+            "ns2.anywebsite.tld",
+            "ns3.anywebsite.tld",
+            "ns4.anywebsite.tld",
+            "ns5.anywebsite.tld"
+        ],
+        "TXT": ["thi_is_an_example_verification=012345678910"],
+        "SRV": [
+            {
+                "content": "_a_srv.record",
+                "priority": 10,
+                "weight": 60,
+                "ttl": "auto",
+                "port": 5060,
+                "target": "mcsrv.anydomain.tld"
+            },
+            {
+                "content": "_a_srv.record",
+                "priority": 20,
+                "weight": 10,
+                "ttl": "auto",
+                "port": 5061,
+                "target": "srv.anydomain.tld"
+            }
+        ]
+    },
+    "proxy": "false/true"
+}
