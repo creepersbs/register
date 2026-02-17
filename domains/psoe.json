@@ -1,0 +1,16 @@
+{
+  "title": "psoe -> playmc",
+  "description": "Subdomain pointing to playmc.c0mpl9x.com",
+  "domain": "creepers.sbs",
+  "subdomain": "psoe",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/c0mpl9x",
+    "email": "a@a.com",
+    "discord": "optional"
+  },
+  "record": {
+    "CNAME": "playmc.c0mpl9x.com"
+  },
+  "proxy": "false"
+}
