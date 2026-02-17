@@ -1,0 +1,24 @@
+{
+    "title": "PSMC Java Server",
+    "description": "PSMC -- prosto server minecraft",
+    "domain": "creepers.sbs",
+    "subdomain": "psmc_java",
+    "country_code": "none",
+    "owner": {
+        "github_user": "ZXV1081",
+        "email": "s.v.p.1251@gmail.com"
+    },
+    "record": {
+        "A": ["185.22.154.9"],
+        "SRV": [
+            {
+                "priority": 10,
+                "weight": 5,
+                "port": 29067,
+                "target": "psmc_java.creepers.sbs",
+                "ttl": "auto"
+            }
+        ]
+    }
+    "proxy": false
+}
