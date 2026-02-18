@@ -1,0 +1,19 @@
+{
+  "title": "Custom Domain for Minecraft Account Verification Server",
+  "description": "I am currently using this https://docs.cookie-api.com/en/docs/minecraft/minecraft-verification/ to verify users accounts in a minecraft server, I am following this https://docs.cookie-api.com/en/guides/custom_domains/minecraft/ guide",
+  "domain": "creepers.sbs",
+  "subdomain": "account-link",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/royalty-smp",
+    "email": "sylvia.rose@anime-oni.is-a.dev",
+    "discord": "anime_oni"
+  },
+  "record": {
+    "spare_record": [
+      "none"
+    ],
+    "CNAME": "minecraft-hosting.cookie-api.com"
+  },
+  "proxy": "false"
+}
