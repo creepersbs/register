@@ -12,6 +12,7 @@
         "A": ["185.22.154.9"],
         "SRV": [
             {
+                "content": "_minecraft._tcp",
                 "priority": 10,
                 "weight": 5,
                 "port": 29067,
