@@ -91,7 +91,7 @@ CH reserves the right to revoke a subdomain if DNS usage violates these Terms.
 
 ## Restricted and Reserved Names
 
-You agree **not to request or use** the following under the `creepers.sbs` root domain:
+You agree **not to request or use** the following under any `creepers.sbs` root domain:
 
 1. **Country or continent codes**  
    (e.g. `en.creepers.sbs`, `eu.creepers.sbs`)  
@@ -223,3 +223,4 @@ Continued use of the service constitutes acceptance of the updated Terms.
 ---
 
 **Last updated:** Jan 2026
+
