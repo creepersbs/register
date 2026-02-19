@@ -2,7 +2,7 @@
     "title": "PSMC Website",
     "description": "Official website for PSMC Minecraft server",
     "domain": "creepers.sbs",
-    "subdomain": "www.psmc",
+    "subdomain": "psmc",
     "country_code": "none",
     "owner": {
         "github_user": "ZXV1081",
@@ -10,6 +10,10 @@
         "discord": "valera08pro"
     },
     "record": {
+        "spare_record": [
+			"www",
+			"CNAME",
+            "ZXV1081.github.io"],
         "CNAME": "ZXV1081.github.io"
     },
     "proxy": false
