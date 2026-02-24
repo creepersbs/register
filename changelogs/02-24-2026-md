@@ -1,0 +1,33 @@
+# Service Policy Update: Subdomain Limitations
+**Effective Date:** 02-24-2026
+**Document ID:** 02-24-2026.md
+
+## 1. Overview
+This document outlines the recent changes to the Terms of Service (ToS) for the **creepers.sbs** registration service (reference: [TERMS.md](https://github.com/creepersbs/register/blob/main/TERMS.md)). These updates are necessary to ensure the sustainability and regulated growth of the service following the introduction of new Top-Level Domains (TLDs).
+
+## 2. Changes to Subdomain Allocation
+To maintain a high-quality free service, the maximum number of subdomains allowed per user across all available TLDs has been restructured.
+
+With the addition of the new domains **creepers.lol** and **creepers.pro** to the existing **creepers.sbs** and **creepers.cloud** fleet, the previous policy of 3 subdomains per TLD (total of 12) is now considered unregulated.
+
+**New Standard Policy:**
+* Each user is entitled to **2 subdomains per TLD**.
+* Total capacity per account: **8 subdomains** (across 4 TLDs).
+
+## 3. Grandfathering Clause (Legacy Users)
+Users who successfully performed a Pull Request (PR) on GitHub prior to **02-24-2026 (Central European Time)** are eligible for the following exceptions regarding the original TLDs (`.sbs` and `.cloud`):
+
+* **Retention:** You may keep your 3 existing subdomains for both `.sbs` and `.cloud`.
+* **New TLDs:** For the new domains (`.lol` and `.pro`), legacy users are limited to the new standard of **2 subdomains per TLD**.
+* **Total Legacy Capacity:** A maximum of **10 subdomains** (3x `.sbs`, 3x `.cloud`, 2x `.lol`, 2x `.pro`).
+
+**Important Restrictions:**
+If a legacy subdomain is removed or revoked due to a ToS violation or a request from third-party authorities, it **cannot be recovered**. Once removed, the account will revert to the standard format of 2 subdomains per TLD.
+
+## 4. Acceptance of Terms
+By submitting or updating a Pull Request on the GitHub repository, users explicitly accept these updated Terms of Service. A checkmark confirmation is required for all PRs, including updates to existing records.
+
+## 5. Contact Information
+For any questions regarding these changes or for further information, please contact [`@giocoliere`](https://github.com/giocoliere) at: <br>
+**Email:** [hello@creeperhub.net](mailto:hello@creeperhub.net) <br>
+**Discord:** [Link to my personal account](https://gioco.lol/discord) <br>

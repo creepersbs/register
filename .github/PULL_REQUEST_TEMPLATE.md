@@ -19,8 +19,8 @@
 
 # 🌐 Subdomain Request Details
 
-- **Requested Subdomain** (e.g., `example.creepers.sbs`):  
-- **TLD** (`.sbs` or `.cloud`):  
+- **Requested Subdomain** (e.g., `example.creepers.tld`):  
+- **TLD** (`.sbs` / `.cloud` / `.pro` / `.lol`):  
 - **Custom NS Records** (if any):  
 
 ---

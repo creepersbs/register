@@ -169,12 +169,12 @@ these requirements or that cannot be reasonably verified.
 
 ## Usage Limits
 
-- Each user may register up to **3 domains total**
-  across **`.sbs`** and **`.cloud`**
+- Each user may register up to **2 domains total**
+  across **`every TLD currently available`**
 - Claiming `name.creepers.tld` reserves all supported TLDs
-- Maximum allocation: **3 `.sbs` + 3 `.cloud`**
+- Maximum allocation: **2 `.sbs` + 2 `.cloud` + 2 `.pro` + 2 `.lol`**
 
-Limits may change at any time.
+**Limits may change at any time.** Look at "[changelogs](https://github.com/creepersbs/register/blob/main/changelogs)" to stay updated.
 
 ---
 
@@ -222,5 +222,5 @@ Continued use of the service constitutes acceptance of the updated Terms.
 
 ---
 
-**Last updated:** Jan 2026
+**Last updated:** Feb 2026
 
