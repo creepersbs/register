@@ -17,7 +17,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 - **Free Subdomains:** No hidden fees, no credit cards.
 - **Customizable Names:** Unique subdomains for websites, projects, or Minecraft servers.
 - **Quick Setup:** Subdomains can be live within hours (manual approval; automation coming soon).
-- **Multiple TLDs:** Choose `.sbs` or `.cloud`, or use both simultaneously.
+- **Multiple TLDs:** Choose `one` among our `TLDs`, or use a many as you want simultaneously.
 - **Reliable DNS:** Powered by Cloudflare and Gcore:
 
 | Cloudflare | Gcore |
