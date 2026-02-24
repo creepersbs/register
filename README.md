@@ -71,7 +71,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 
 ---
 
-## 📜 Terms of Service
+## 📜 Terms of Service (updated [02-24-2026](https://github.com/creepersbs/register/blob/main/changelogs/02-24-2026-md)
 
 > [!WARNING]  
 > By using the service, you **automatically agree** to the Terms of Service.  
