@@ -1,0 +1,18 @@
+{
+  "title": "bee",
+  "description": "bee",
+  "domain": "creepers.sbs",
+  "subdomain": "bee",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/silkenpy",
+    "email": "silkenpy@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "ns1.desec.io",
+      "ns2.desec.org"
+    ]
+  },
+  "proxy": false
+}
