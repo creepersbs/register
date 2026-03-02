@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/creepersbs/register/main/schema.json",
+  "domain": "mc.games.creepers.sbs",
+  "owner": {
+    "username": "leonardopro2010"
+  },
+  "record": {
+    "A": ["0.0.0.0"]
+  }
+}
