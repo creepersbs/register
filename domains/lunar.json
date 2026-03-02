@@ -1,0 +1,10 @@
+{
+  "domain": "creepers.sbs",
+  "subdomain": "lunar",
+  "owner": {
+    "github_user": "leonardopro2010"
+  },
+  "record": {
+    "A": ["0.0.0.0"]
+  }
+}
