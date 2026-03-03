@@ -1,0 +1,18 @@
+{
+  "title": "Mio Server Minecraft",
+  "description": "Server Minecraft con Aternos",
+  "domain": "creepers.sbs",
+  "subdomain": "lunar",
+  "country_code": "IT",
+  "owner": {
+    "github_user": "leonardopro2010",
+    "email": "velinovskileonardo4@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "galileo.aternos.org",
+      "columbus.aternos.org"
+    ]
+  },
+  "proxy": false
+}
