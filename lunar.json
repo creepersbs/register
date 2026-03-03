@@ -1,0 +1,14 @@
+{
+  "title": "Mio Server Minecraft",
+  "description": "Server Minecraft personale con BedWars e KitPvP",
+  "domain": "creepers.sbs",
+  "subdomain": "lunar",
+  "country_code": "IT",
+  "owner": {
+    "github_user": "leonardopro2010",
+    "email": "velinovskileonardo4@gmail.com"
+  },
+  "record": {
+    "A": ["0.0.0.0"],
+  },
+  "proxy": false
