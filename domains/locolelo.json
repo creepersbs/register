@@ -2,11 +2,10 @@
     "description": "Websit",
     "domain": "creepers.sbs",
     "subdomain": "locolelo",
-
-"country_code": "none", 
+    "country_code": "none", 
     "owner": {
         "github_user": "https://github.com/ririko5834",
-        "email": "wolfo89+foexo@protonmail.com",
+        "email": "wolfo89+foexo@protonmail.com"
     
     },                            
     "record": {
