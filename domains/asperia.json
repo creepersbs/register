@@ -12,7 +12,7 @@
 
     "record": {
         "spare_record": ["none"], 
-        "A": [ "112.203.63.48" ],
+        "A": [ "20.17.177.249" ],
         "SRV": [
             {
                 "service": "_minecraft",
@@ -20,7 +20,7 @@
                 "name": "@",
                 "priority": 10,
                 "weight": 60,
-                "port": 4091,
+                "port": 55765,
                 "target": "asperia.creepers.sbs"
             }
         ]
