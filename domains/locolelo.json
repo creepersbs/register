@@ -1,15 +1,57 @@
-{   "title": "Locolelo",
-    "description": "Websit",
-    "domain": "creepers.sbs",
-    "subdomain": "locolelo",
-    "country_code": "none", 
-    "owner": {
-        "github_user": "https://github.com/ririko5834",
-        "email": "wolfo89+foexo@protonmail.com"
-    
-    },                            
-    "record": {
-        "NS":  [ "ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net" ]
-    },
- "proxy": "false"
+{
+  "title": "Locolelo",
+  "description": "Website",
+  "domain": "creepers.sbs",
+  "subdomain": "locolelo",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/ririko5834",
+    "email": "wolfo89+foexo@protonmail.com"
+  },
+  "record": {
+    "NS": [
+      "ns1.he.net",
+      "ns2.he.net",
+      "ns3.he.net",
+      "ns4.he.net",
+      "ns5.he.net"
+    ]
+  },
+  "proxy": "false",
+
+  "domain_2": "creepers.cloud",
+  "record_2": {
+    "NS": [
+      "ns1.he.net",
+      "ns2.he.net",
+      "ns3.he.net",
+      "ns4.he.net",
+      "ns5.he.net"
+    ]
+  },
+  "proxy_2": "false",
+
+  "domain_3": "creepers.pro",
+  "record_3": {
+    "NS": [
+      "ns1.he.net",
+      "ns2.he.net",
+      "ns3.he.net",
+      "ns4.he.net",
+      "ns5.he.net"
+    ]
+  },
+  "proxy_3": "false",
+
+  "domain_4": "creepers.lol",
+  "record_4": {
+    "NS": [
+      "ns1.he.net",
+      "ns2.he.net",
+      "ns3.he.net",
+      "ns4.he.net",
+      "ns5.he.net"
+    ]
+  },
+  "proxy_4": "false"
 }
