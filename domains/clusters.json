@@ -1,0 +1,13 @@
+{
+  "domain": "clusters",
+  "records": [
+    {
+      "type": "SRV",
+      "name": "_minecraft._tcp",
+      "target": "gm52-dc02.ouiheberg.com",
+      "port": 27345,
+      "priority": 0,
+      "weight": 5
+    }
+  ]
+}
