@@ -1,5 +1,6 @@
 {
   "domain": "clusters",
+  "subdomain": "creepers.lol",
   "records": [
     {
       "type": "SRV",
