@@ -17,7 +17,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 - **Free Subdomains:** No hidden fees, no credit cards.
 - **Customizable Names:** Unique subdomains for websites, projects, or Minecraft servers.
 - **Quick Setup:** Subdomains can be live within hours (manual approval; automation coming soon).
-- **Multiple TLDs:** Choose `one` among our `TLDs`, or use a many as you want simultaneously.
+- **Multiple TLDs:** Choose `one` among our multiple `TLDs`, or use a many as you want simultaneously (according to our [**Terms**](https://github.com/creepersbs/register/blob/main/TERMS.md#usage-limits)).
 - **Reliable DNS:** Powered by Cloudflare and Gcore:
 
 | Cloudflare | Gcore |
@@ -57,6 +57,9 @@ It allows developers, Minecraft players, and server owners to personalize their 
 - Web Panel (Discontinuing the Github repo)
 - AI reviews to check file formats
 - Webring
+- Raw files
+- Public list of domains + their status
+- Public list of MC servers + their status
 - Whois service + Whois privacy protection
 - Automation for faster PR approval
 
@@ -81,7 +84,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 
 ## 🛠 Support & Contact
 
-If you encounter issues or need help:
+If you encounter issues, need help or you want to transfer your subdomain to another account:
 
 - Open a GitHub Issue: [**here**](https://github.com/creepersbs/register/issues/new/choose)
 - Contact Form: [**here**](https://creeperhub.net/contact) *(must choose Email or Discord; Discord requires joining the official server)*
