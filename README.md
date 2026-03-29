@@ -18,7 +18,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 - **Customizable Names:** Unique subdomains for websites, projects, or Minecraft servers.
 - **Quick Setup:** Subdomains can be live within hours (manual approval; automation coming soon).
 - **Multiple TLDs:** Choose `one` among our multiple `TLDs`, or use as many as you want simultaneously (accordingly to our [**Terms**](https://github.com/creepersbs/register/blob/main/TERMS.md#usage-limits)).
-- **Reliable DNS:** Powered by Cloudflare and Gcore:
+- **Reliable DNS:** Powered by Cloudflare, Gcore and deSEC:
 
 | Cloudflare | Gcore | deSEC |
 | --- | --- | --- |
