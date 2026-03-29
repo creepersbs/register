@@ -17,12 +17,12 @@ It allows developers, Minecraft players, and server owners to personalize their 
 - **Free Subdomains:** No hidden fees, no credit cards.
 - **Customizable Names:** Unique subdomains for websites, projects, or Minecraft servers.
 - **Quick Setup:** Subdomains can be live within hours (manual approval; automation coming soon).
-- **Multiple TLDs:** Choose `one` among our multiple `TLDs`, or use a many as you want simultaneously (according to our [**Terms**](https://github.com/creepersbs/register/blob/main/TERMS.md#usage-limits)).
+- **Multiple TLDs:** Choose `one` among our multiple `TLDs`, or use as many as you want simultaneously (accordingly to our [**Terms**](https://github.com/creepersbs/register/blob/main/TERMS.md#usage-limits)).
 - **Reliable DNS:** Powered by Cloudflare and Gcore:
 
-| Cloudflare | Gcore |
-| --- | --- |
-| [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com) | [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com) |
+| Cloudflare | Gcore | deSEC |
+| --- | --- | --- |
+| [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com) | [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com) | [![deSEC](https://github.com/creepersbs/.github/blob/main/profile/desec.png)](https://desec.io) |
 
 </details>
 
