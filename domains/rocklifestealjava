@@ -1,0 +1,15 @@
+{
+    "title": "Rock LifeSteal SMP",
+    "description": "A chill Minecraft server for school friends - Java Edition",
+    "domain": "creeper.cloud",
+    "subdomain": "rock",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/alamien060512-alt,
+        "email": "al.amien060512@gmail.com"
+    },
+    "record": {
+        "CNAME": "rocklifestealsmp.minekeep.gg"
+    },
+    "proxy": "false"
+}
