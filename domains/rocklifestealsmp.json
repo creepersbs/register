@@ -1,0 +1,15 @@
+{
+    "title": "Rock Life Steal SMP",
+    "description": "A chill pink-themed Minecraft server for school friends - Java + Bedrock crossplay",
+    "domain": "creeper.cloud",
+    "subdomain": "rocklifestealsmp",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/alamien060512-alt",
+        "email": "al.amien060512@gmail.com"
+    },
+    "record": {
+        "CNAME": "https://silly-gingersnap-1638ac.netlify.app/"
+    },
+    "proxy": "false"
+}
