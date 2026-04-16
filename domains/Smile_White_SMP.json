@@ -1,0 +1,9 @@
+{
+  "domain": "smilewhitesmp.creepers.sbs",
+  "owner": {
+    "username": "smilewhitesmp"
+  },
+  "record": {
+    "CNAME": "Smile_White_SMP.aternos.me"
+  }
+}
