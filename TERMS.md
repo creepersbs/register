@@ -10,6 +10,7 @@ or transfer a subdomain under the **`creepers.sbs`** or **`creepers.cloud`**
 domains, you **explicitly confirm** that you have read, understood,
 and agree to these Terms of Service.
 
+This acceptance is mandatory **every time a Pull Request is submitted or updated** (via checkmark). 
 If you do not agree with these Terms, **do not submit a request**.
 
 ---
@@ -43,14 +44,20 @@ associated with the subdomain, including the ability to use
 
 Subdomain requests are made via Pull Requests using the official templates:
 
-- **Single TLD request template**  
-  https://github.com/creepersbs/register/blob/main/domains/template.json
+- **Single TLD request template** https://github.com/creepersbs/register/blob/main/domains/template.json
 
-- **Complete request template (all supported TLDs)**  
-  https://github.com/creepersbs/register/blob/main/domains/complete.template.json
+- **Complete request template (all supported TLDs)** https://github.com/creepersbs/register/blob/main/domains/complete.template.json
+  
+Requests not following the templates or containing false or incomplete information may be rejected.
 
-Requests not following the templates or containing false or incomplete
-information may be rejected.
+
+
+### Strict PR Requirements
+To ensure service stability, we enforce a **Zero-Manual-Fix Policy**.
+Users are solely responsible for ensuring the PR is perfectly formatted:
+- **Perfect JSON:** Requests must follow the templates exactly. Any syntax errors will result in the PR being rejected or deferred until corrected by the requester.
+- **Correct Placement:** All files must be in the correct directory. We will no longer manually modify or move your files for you.
+- **No Reservations:** Requests are only accepted for **already existing and functional** services. Pointing to `localhost`, `test`, `1.1.1.1`, `0.0.0.0`, or similar placeholder IPs is strictly forbidden.
 
 Issues may be opened for questions or clarification:  
 https://github.com/creepersbs/register/issues/new
@@ -65,6 +72,11 @@ You acknowledge that **you are solely responsible** for:
 - Content hosted on the subdomain
 - Any website, service, application, or server reachable through the subdomain
 - Compliance with all applicable laws and regulations
+
+### Anti-Alt Account Policy
+Creating multiple accounts to bypass the registration limits is strictly prohibited. 
+- Accounts will be scrutinized; if an account is found to be an "alt" or created solely for domain hoarding on creepers.sbs, the request will be cancelled. 
+- Fraudulent requests create significant delays in our response times for the entire community.
 
 CH **assumes no responsibility** for:
 
@@ -91,22 +103,20 @@ CH reserves the right to revoke a subdomain if DNS usage violates these Terms.
 
 ## Restricted and Reserved Names
 
+CH reserves the right to **update the reserved terms list at any time without prior notice**. 
 You agree **not to request or use** the following under any `creepers.sbs` root domain:
 
-1. **Country or continent codes**  
-   (e.g. `en.creepers.sbs`, `eu.creepers.sbs`)  
+1. **Country or continent codes** (e.g. `en.creepers.sbs`, `eu.creepers.sbs`)  
    → Allowed: `anything.en.creepers.sbs`
 
 2. **Shop / store / ecommerce** names that may appear official
 
-3. **`mc` or `play`** as root subdomains  
+3. **Official Mimicry (Minecraft/Staff)** Since there are currently **no official creepers.sbs Minecraft servers**, names that imply official status are prohibited as root subdomains. This includes: `mc`, `play`, `smp`, `network`, `bedwars`, `staff`, `admin`.
    → Allowed: `mc.yourserver.creepers.sbs`
 
-4. **Official or system-related names**  
-   (`about`, `status`, `whois`, `translate`, or similar)
+4. **Official or system-related names** (`about`, `status`, `whois`, `translate`, or similar)
 
-5. **Any domain listed in the reserved domains list**  
-   https://github.com/creepersbs/register/tree/main/domains/reserved/list.json
+5. **Any domain listed in the reserved domains list** https://github.com/creepersbs/register/tree/main/domains/reserved/list.json
 
 6. **Social media names** that could impersonate official creepers.sbs / CH accounts
 
@@ -137,6 +147,10 @@ CH may suspend or remove any subdomain if:
 - The subdomain is involved in abuse, scams, phishing, malware, or illegal activity
 - A **verified third party** submits a takedown request
 
+### Transparency Ledger (`/removed` folder)
+We now maintain a public list of terms and domains removed for violations in the [`/removed`](https://github.com/creepersbs/register/edit/main/domains/removed) folder. Entries are logged as: 
+- **Blacklisted name** - **Previous owner** - **Category: TOS/DMCA/OTHER** - **Requesting Party** - **Reason**
+
 ### Third-Party Identity Verification
 
 For a third-party takedown request to be considered valid, the requesting party
@@ -150,8 +164,7 @@ The requester must be **one of the following**:
   is being abused or impersonated
 - A recognized **institution or authority** reporting a verified violation
 
-In addition, the requester must provide **clear and verifiable proof** of the violation,
-such as:
+In addition, the requester must provide **clear and verifiable proof** of the violation, such as:
 
 - Evidence of copyright ownership or trademark rights
 - Documentation or public records proving affiliation or authority
@@ -161,18 +174,22 @@ such as:
 Requests that are **unverifiable, anonymous, frivolous, or abusive**
 will be **ignored without response**.
 
-CH reserves the right to reject any takedown request that does not meet
-these requirements or that cannot be reasonably verified.
+CH reserves the right to reject any takedown request that does not meet these requirements or that cannot be reasonably verified.
 
 
 ---
 
 ## Usage Limits
 
-- Each user may register up to **2 domains total**
-  across **`every TLD currently available`**
-- Claiming `name.creepers.tld` reserves all supported TLDs
-- Maximum allocation: **2 `.sbs` + 2 `.cloud` + 2 `.pro` + 2 `.lol`**
+- Each user may register up to **2 names total**
+  across **`every TLD currently available`**.
+- Claiming `name.creepers.tld` reserves all supported TLDs.
+- Maximum allocation: **2 `.sbs` + 2 `.cloud` + 2 `.pro` + 2 `.lol`**.
+
+### Legacy Users (Pre 02-24-2026)
+Users who successfully performed a PR before **02-24-2026 (CET)** may retain **3 names** for the original TLDs (`.sbs` and `.cloud`). 
+- If these legacy domains are removed for ToS violations or third-party requests, they **cannot be recovered**, and the user will revert to the standard 2-name limit.
+- Legacy users are still limited to **2 names** for the newer TLDs (`.pro`, `.lol`).
 
 **Limits may change at any time.** Look at "[changelogs](https://github.com/creepersbs/register/blob/main/changelogs)" to stay updated.
 
@@ -197,9 +214,6 @@ Transfers require:
 
 4. Discord username changes must be reflected in the registration file
 
-5. Organization transfers must follow GitHub’s official process:  
-   https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
-
 Discord is used as **additional identity verification** and does not replace GitHub ownership checks.
 
 ---
@@ -222,5 +236,4 @@ Continued use of the service constitutes acceptance of the updated Terms.
 
 ---
 
-**Last updated:** Feb 2026
-
+**Last updated:** 04-17-2026
