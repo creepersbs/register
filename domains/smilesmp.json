@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "smilewhitesmp"
+  },
+  "domain": "smilesmp.creepers.sbs",
+  "record": {
+    "CNAME": "Smile_White_SMP.aternos.me"
+  },
+  "doNotModify": {
+    "reason": "This file was automatically created, please do not modify it manually."
+  }
+}
