@@ -1,9 +1,9 @@
 {
-  "domain": "smilewhitesmp.creepers.sbs",
+  "domain": "smilesmp.creepers.sbs",
   "owner": {
-    "username": "ТВОЙ_НИК_НА_GITHUB"
+    "username": "smilewhitesmp"
   },
   "record": {
-    "CNAME": "ТВОЙ_НИК.aternos.me"
+    "CNAME": "Smile_White_SMP.aternos.me"
   }
 }
