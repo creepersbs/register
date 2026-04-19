@@ -5,15 +5,15 @@
 
   // Your GitHub username
   "owner": {
-    "username": "YOUR_GITHUB_USERNAME_HERE"
+    "username": "smilewhitesmp"
   },
 
   // The full subdomain you want (e.g., example.creepers.sbs)
-  "domain": "YOUR_DOMAIN_HERE.creepers.sbs",
+  "domain": "smilesmp.creepers.sbs",
 
   // DNS record configuration. For Aternos, use a CNAME record.
   "record": {
-    "CNAME": "YOUR_ATERNOS_ADDRESS.aternos.me"
+    "CNAME": "Smile_White_SMP.aternos.me"
   },
 
   // Terms of Service agreement.
