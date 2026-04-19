@@ -1,12 +1,23 @@
 {
+  // This is a template for registering a subdomain.
+  // Replace the placeholders with your actual information.
+  // Don't change the structure.
+
+  // Your GitHub username
   "owner": {
-    "username": "smilewhitesmp"
+    "username": "YOUR_GITHUB_USERNAME_HERE"
   },
-  "domain": "smilesmp.creepers.sbs",
+
+  // The full subdomain you want (e.g., example.creepers.sbs)
+  "domain": "YOUR_DOMAIN_HERE.creepers.sbs",
+
+  // DNS record configuration. For Aternos, use a CNAME record.
   "record": {
-    "CNAME": "Smile_White_SMP.aternos.me"
+    "CNAME": "YOUR_ATERNOS_ADDRESS.aternos.me"
   },
-  "doNotModify": {
-    "reason": "This file was automatically created, please do not modify it manually."
-  }
+
+  // Terms of Service agreement.
+  // READ THE TERMS AT https://creepers.sbs/terms BEFORE AGREEING.
+  // By keeping this line, you agree to be bound by the terms.
+  "agreement": "✔️ "
 }
