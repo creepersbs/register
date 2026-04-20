@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "email": "tonemail@gmail.com"
+  },
+  "records": {
+    "SRV": [
+      {
+        "priority": 0,
+        "weight": 5,
+        "port": 25528,
+        "target": "151.240.30.24"
+      }
+    ]
+  }
+}
