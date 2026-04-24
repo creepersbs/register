@@ -1,20 +1,19 @@
 {
-    "title": "Z Cloud",
-    "description": "Selfhosted Server",
+    "title": "CIMPERIAL",
+    "description": "VerveELM",
     "domain": "creepers.sbs",
     "subdomain": "zc",
     "country_code": "none",
     "owner": {
-        "github_user": "https://github.com/hoangx4",
-        "email": "hoangxg4@gmail.com"
+        "github_user": "https://github.com/knstakri-hub",
+        "email": "KnstaKri@gmail.com"
     },
     "record": {
         "spare_record": [
             "none"
         ],
-        "NS": [
-            "ns1.onii.pp.ua",
-            "ns2.onii.pp.ua"
+        "A": [
+            "CImperial.aternos.me"
         ]
     },
     "proxy": "false"
