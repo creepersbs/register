@@ -1,0 +1,94 @@
+{
+  "title": "EvolveMC",
+  "description": "Official Minecraft server for EvolveMC community",
+  "domain": "creepers.sbs",
+  "subdomain": "evolvemc",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/gmoilu951-cyber",
+    "email": "Itsnil.offical@gmail.com",
+    "discord": "@nilop4"
+  },
+  "record": {
+    "spare_record": [
+      "play",
+      "CNAME",
+      "arrow.playwithbao.com"
+    ],
+    "CNAME": "arrow.playwithbao.com",
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 5,
+        "ttl": "auto",
+        "port": 53738,
+        "target": "arrow.playwithbao.com"
+      }
+    ]
+  },
+  "proxy": "false",
+
+  "domain_2": "creepers.cloud",
+  "record_2": {
+    "spare_record": [
+      "play",
+      "CNAME",
+      "arrow.playwithbao.com"
+    ],
+    "CNAME": "arrow.playwithbao.com",
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 5,
+        "ttl": "auto",
+        "port": 53738,
+        "target": "arrow.playwithbao.com"
+      }
+    ]
+  },
+  "proxy_2": "false",
+
+  "domain_3": "creepers.pro",
+  "record_3": {
+    "spare_record": [
+      "play",
+      "CNAME",
+      "arrow.playwithbao.com"
+    ],
+    "CNAME": "arrow.playwithbao.com",
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 5,
+        "ttl": "auto",
+        "port": 53738,
+        "target": "arrow.playwithbao.com"
+      }
+    ]
+  },
+  "proxy_3": "false",
+
+  "domain_4": "creepers.lol",
+  "record_4": {
+    "spare_record": [
+      "play",
+      "CNAME",
+      "arrow.playwithbao.com"
+    ],
+    "CNAME": "arrow.playwithbao.com",
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 5,
+        "ttl": "auto",
+        "port": 53738,
+        "target": "arrow.playwithbao.com"
+      }
+    ]
+  },
+  "proxy_4": "false"
+}
