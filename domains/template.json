@@ -1,14 +1,15 @@
-{   "title": "Title of the Website", (When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
-    "description": "Project / Website / Server Description",
-    "domain": "creepers.sbs/creepers.cloud", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
-    "subdomain": "example", (in this case there should be template as this fiel is always the exact same as the file name)
+{   "title": "Title of the Website", (REQUIRED. When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
+    "description": "Project / Website / Server Description", (REQUIRED. Describe what is the purpose of this subdomain)
+    "domain": "creepers.sbs/creepers.cloud", (REQUIRED. Choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
+    "subdomain": "example", (REQUIRED. In this case there should be template as this fiel is always the exact same as the file name)
 
-"country_code": "none", (this decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
-    if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs)
+"country_code": "none", (REQUIRED. This decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
+    if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs. [[[AT THE MOMENT THERE AREN'T ENOUGH SUBDOMAINS TO DIVIDE THE SUBDOMAINS X ISO2 COUNTRY CODES,
+    WHICH MEANS THAT THIS COUNTRY CODE WILL BE USED AS ADDITIONAL INFO ABOUT YOUR SERVICE]]])
     
     "owner": {
-        "github_user": "https://github.com/username", (required, has to be the one who's making the request)
-        "email": "cool_email@anywebsite.tld", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "github_user": "https://github.com/username", (REQUIRED. Has to be the user who's making the request)
+        "email": "cool_email@anywebsite.tld", (REQUIRED. To text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
         "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support. Especially to transfer the subdomain to another person. 
 If you add this field you'll be contacted/can contact the support only if you're on the official CreeperHUB discord server) 
     }, (then choose the records among A / AAAA / CNAME / NS / MX / TXT / etc... )                              
@@ -27,6 +28,6 @@ to choose the spare-record.(mainrecord).creepers.tld in the first field [none] a
             { "content": "_a_srv.record", "priority": 20, "weight": 10, "ttl": "auto", "port": 5061, "target": "srv.anydomain.tld" }
         ]
     },
- "proxy": "false/true" (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
+ "proxy": "false/true" (REQUIRED. Choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
  (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs + .cloud] YOU CAN USE "complete.template.json" AS REFERENCE)
 }
