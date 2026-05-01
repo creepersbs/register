@@ -1,6 +1,17 @@
 { 
   "subdomain": "vzlom",
+  "domain": "sbs",
   "records": {
     "A": ["f1.rustix.me:30637"]
+    "SRV": [
+      {
+        "service": "_minecraft",
+        "proto": "_tcp",
+        "port": 30637,
+        "target": "vzlom.creepers.sbs",
+        "priority": 0,
+        "weight": 5
+      }
+    ]
   }
 }
