@@ -7,7 +7,7 @@
       {
         "service": "_minecraft",
         "proto": "_tcp",
-        "port": 30637,
+        "port": 29436,
         "target": "vzlom.creepers.sbs",
         "priority": 0,
         "weight": 5
