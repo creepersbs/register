@@ -2,7 +2,7 @@
   "subdomain": "vzlom",
   "domain": "sbs",
   "records": {
-    "A": ["f1.rustix.me:30637"]
+    "A": ["f1.rustix.me:29436"]
     "SRV": [
       {
         "service": "_minecraft",
