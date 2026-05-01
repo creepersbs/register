@@ -1,6 +1,6 @@
 { 
   "subdomain": "vzlom",
   "records": {
-    "A": ["f1.rustix.me:30637"
+    "A": ["f1.rustix.me:30637"]
   }
 }
