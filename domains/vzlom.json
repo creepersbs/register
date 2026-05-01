@@ -1,0 +1,6 @@
+{ 
+  "subdomain": "vzlom",
+  "records": {
+    "A": ["f1.rustix.me:30637"]
+  }
+}
