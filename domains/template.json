@@ -1,6 +1,6 @@
 {   "title": "Title of the Website", (REQUIRED. When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
     "description": "Project / Website / Server Description", (REQUIRED. Describe what is the purpose of this subdomain)
-    "domain": "creepers.sbs/creepers.cloud", (REQUIRED. Choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
+    "domain": "creepers.sbs /.cloud / .pro / .lol", (REQUIRED. Choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
     "subdomain": "example", (REQUIRED. In this case there should be template as this fiel is always the exact same as the file name)
 
 "country_code": "none", (REQUIRED. This decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
