@@ -9,13 +9,13 @@
         "email": "s.v.p.1251@gmail.com"
     },
     "record": {
-            "CNAME": "PSMC-8Kgg.aternos.me",
-            "SRV": [
-                {
+        "A": "185.22.154.9",
+        "SRV": [
+            {
                 "content": "_minecraft._tcp",
                 "priority": 10,
                 "weight": 5,
-                "port": 25921,
+                "port": 29067,
                 "target": "psmc_java.creepers.sbs",
                 "ttl": "auto"
             }
