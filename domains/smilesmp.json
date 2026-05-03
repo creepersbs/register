@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "smilewhitesmp"
+  },
+  "subdomain": "smilesmp",
+  "domain": "smilesmp.creepers.sbs",
+  "record": {
+    "CNAME": "Smile_White_SMP.aternos.me"
+  },
+  "email": "kobylenko14@mail.ru",
+  "country_code": "RU",
+  "description": "My minecraft server is for a small smp for a pleasant game and events",
+  "title": "SmileSMP Minecraft Server",
+  "proxy": false
+}
