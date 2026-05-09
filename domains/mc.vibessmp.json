@@ -1,0 +1,25 @@
+{
+    "title": "Vibes SMP",
+    "description": "A professional Minecraft server hosted on Aternos.",
+    "domain": "creepers.pro",
+    "subdomain": "mc.vibessmp",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/valthedisciple",
+        "email": "uhohchicken222@gmail.com",
+        "discord": "valthedisciple"
+    },
+    "record": {
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 0,
+                "weight": 5,
+                "ttl": "auto",
+                "port": 54867,
+                "target": "VibesSMPs1.aternos.me"
+            }
+        ]
+    },
+    "proxy": "false"
+}
