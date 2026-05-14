@@ -1,0 +1,17 @@
+{
+  "title": "Pandora",
+  "description": "Pandora Streaming Site.",
+  "domain": "creeper.lol",
+  "subdomain": "pandora",
+  "country": "TH",
+
+  "owner": {
+    "username": "cooper572",
+    "email": "cooper.webp@gmail.com",
+    "discord": "@cooper.snap"
+  },
+
+  "records": {
+    "CNAME": "pandora-movies.pages.dev"
+  }
+}
