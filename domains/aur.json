@@ -8,7 +8,7 @@
         "email": "rehmanawan.contact@gmail.com"
     },                         
     "record": {
-        "spare_record": ["none"],
+        "spare_record": "none",
         "CNAME": "portfolio-attique.vercel.app"
     },
     "proxy": "false"
