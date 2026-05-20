@@ -1,0 +1,26 @@
+{
+    "title": "My PaperMC Server",
+    "description": "Minecraft PaperMC server hosted on port 58874",
+    "domain": "creepers.pro",
+    "subdomain": "stonemasons",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com",
+        "email": "luna.renzo@gmail.com",
+        "discord": "none"
+    },
+    "record": {
+        "A": ["20.17.177.135"],
+        "SRV": [
+            { 
+                "content": "_minecraft._tcp", 
+                "priority": 0, 
+                "weight": 5, 
+                "ttl": "auto", 
+                "port": 58874, 
+                "target": "stonemasons.creepers.pro" 
+            }
+        ]
+    },
+    "proxy": "false"
+}
