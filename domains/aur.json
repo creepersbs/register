@@ -1,0 +1,15 @@
+{   "title": "aur",
+    "description": "A modern, privacy-focused portfolio site",
+    "domain": "creepers.cloud",
+    "subdomain": "aur",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/rehmanawancont/",
+        "email": "rehmanawan.contact@gmail.com"
+    },                         
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "portfolio-attique.vercel.app"
+    },
+    "proxy": "false"
+}
