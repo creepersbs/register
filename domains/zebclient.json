@@ -1,0 +1,16 @@
+{   
+    "title": "Zeb Client",
+    "description": "The official landing page website for Zeb Client, a premium open-source utility client for Minecraft.",
+    "domain": "creepers.pro",
+    "subdomain": "zebclient",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com",
+        "email": "rishishandilya55@gmail.com",
+        "discord": "@gojo_saturo_reborn"
+    },                             
+    "record": {
+        "CNAME": "rishishandilya55-lang.github.io"
+    },
+    "proxy": "false"
+}
