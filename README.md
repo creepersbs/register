@@ -38,6 +38,10 @@ It allows developers, Minecraft players, and server owners to personalize their 
 
 ## 📌 Getting Started
 
+>[!NOTE]
+>Follow these steps below or read our **brand new** [**`Documentation`**](https://docs.creepers.sbs) for additional info
+
+
 1. Visit the [`/register`](https://github.com/creepersbs/register) repository.
 2. [**`Star`**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) and [Fork](https://github.com/creepersbs/register/fork) the repo.
 3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder, named as your desired subdomain, e.g., `example.json`.
