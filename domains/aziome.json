@@ -1,0 +1,13 @@
+{
+    "domain": "creepers.sbs",
+    "records": {
+        "SRV": [
+            {
+                "priority": 10,
+                "weight": 5,
+                "port": 33628,
+                "target": "185.9.145.82"
+            }
+        ]
+    }
+}
