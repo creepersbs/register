@@ -1,0 +1,17 @@
+{
+    "title": "Sail Global",
+    "description": "Public alpha endpoint for the Sail Minecraft identity and registry project.",
+    "domain": "creepers.sbs",
+    "subdomain": "sail",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/Hydr46605",
+        "email": "bryamjamb@proton.me",
+        "discord": "ilbrojohnny"
+    },
+    "record": {
+        "spare_record": ["api", "A", "140.238.216.161"],
+        "A": ["140.238.216.161"]
+    },
+    "proxy": true
+}
