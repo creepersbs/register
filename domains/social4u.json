@@ -1,0 +1,16 @@
+{   
+    "title": "Social4U", 
+    "description": "Social Chat Site.", 
+    "domain": "socail4u.pro", 
+    "subdomain": "social", 
+    "country_code": "pk", 
+    "owner": {
+        "github_user": "https://github.com/awaiskmalik", 
+        "email": "iamakmalik363@gmail.com", 
+        "discord": "optional" 
+    },                              
+    "record": {
+        "CNAME": "social.free.nf"
+    },
+    "proxy": "false"
+}
