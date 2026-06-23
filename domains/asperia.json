@@ -15,8 +15,7 @@
         "A": [ "20.17.177.249" ],
         "SRV": [
             {
-                "service": "_minecraft",
-                "proto": "_tcp",
+                "content": "_minecraft._tcp",
                 "name": "@",
                 "priority": 10,
                 "weight": 60,
