@@ -1,0 +1,26 @@
+{
+    "title":"HarryqSMP",
+    "description":"Minecraft Java server for mostly my local community",
+    "domain":"creepers.sbs",
+    "subdomain":"harryq",
+    "country_code":"none",
+
+    "owner":{
+        "github_user":"https://github.com/harryq161514",
+        "email":"harryq161514@gmail.com",
+        "discord":"@harryq161514"
+    },
+
+    "record":{
+        "SRV": [{ 
+            "content": "_minecraft._tcp", 
+            "priority": 10, 
+            "weight": 60, 
+            "ttl": "auto", 
+            "port": 62418, 
+            "target": "comet.pikamc.vn" 
+        }]
+    },
+
+    "proxy":"false"
+}
