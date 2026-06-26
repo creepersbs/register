@@ -17,7 +17,7 @@
             "priority": 10, 
             "weight": 60, 
             "ttl": "auto", 
-            "port": 62418, 
+            "port": 26262, 
             "target": "comet.pikamc.vn" 
         }]
     },
