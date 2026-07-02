@@ -1,0 +1,11 @@
+{
+    "$schema": "../schema.json",
+    "description": "A website that provides a reliable way to beat Minecraft hardcore mode without dying, safe for beginners and experts.",
+    "repo": "https://github.com/Pythonexplorer48/Beat-Minecraft-Hardcore-Guide",
+    "owner": {
+        "username": "Pythonexplorer48"
+    },
+    "record": {
+        "CNAME": "Pythonexplorer48.github.io"
+    }
+}
