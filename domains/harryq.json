@@ -12,6 +12,7 @@
     },
 
     "record":{
+        "CNAME": "comet.pikamc.vn",
         "SRV": [{ 
             "content": "_minecraft._tcp", 
             "priority": 10, 
