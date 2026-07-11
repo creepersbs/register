@@ -1,0 +1,34 @@
+{
+	"title": "OP FIRE GAMES HANGOUT",
+	"description": "OP_FIRE_GAMES — a bloxd.io server. Board the train, choose your track.",
+	"domain": "creepers.sbs",
+	"subdomain": "opfiregames",
+	"country_code": "none",
+	"owner": {
+		"github_user": "https://github.com/QuantumTechCoder",
+		"email": "quantumtechsperts@gmail.com",
+		"discord": "@quantumtechcoder"
+	},
+	"record": {
+		"CNAME": "opfiregames.pages.dev"
+	},
+	"proxy": "false",
+	
+	"domain_2": "creepers.cloud",
+	"record_2": {
+		"CNAME": "opfiregames.pages.dev"
+	},
+	"proxy_2": "false",
+
+	"domain_3": "creepers.pro",
+	"record_3": {
+		"CNAME": "opfiregames.pages.dev"
+	},
+	"proxy_3": "false",
+
+	"domain_4": "creepers.lol",
+	"record_4": {
+		"CNAME": "opfiregames.pages.dev"
+	},
+	"proxy_4": "false"
+}
