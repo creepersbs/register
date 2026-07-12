@@ -1,0 +1,25 @@
+{
+    "title": "HealthRecords Minecraft Server",
+    "description": "Minecraft Java server for HealthRecords community",
+    "domain": "creepers.sbs",
+    "subdomain": "healthrecords",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/ditmelsa2-droid",
+        "email": "gamam123@gmail.com"
+    },
+    "record": {
+        "A": ["103.216.127.119"],
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 10,
+                "weight": 5,
+                "ttl": "auto",
+                "port": 25641,
+                "target": "healthrecords.creepers.sbs"
+            }
+        ]
+    },
+    "proxy": "false"
+}
