@@ -1,0 +1,15 @@
+{
+  "title": "Dr3amy Hub | Student Code Repository",
+  "description": "The main landing hub and central repository index for programming projects, open-source utilities, and development experiments built by dr3amy. I also aim to use it as my portfolio to get into a school I want to enter next year.",
+  "domain": "creepers.pro",
+  "subdomain": "dr3amy",
+  "country_code": "none",
+  "owner": {
+    "email": "rachata.p@ekburapa.ac.th",
+    "github_user": "https://github.com/ltnproject"
+  },
+  "record": {
+    "CNAME": "ltnproject.github.io"
+  },
+  "proxy": "false"
+}
