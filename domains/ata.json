@@ -1,0 +1,18 @@
+{
+  "title": "ata",
+  "description": "ata",
+  "domain": "cloud",
+  "subdomain": "ata",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/ata666az",
+    "email": "ata666az@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "chip.ns.cloudflare.com",
+      "eleanor.ns.cloudflare.com"
+    ]
+  },
+  "proxy": true
+}
