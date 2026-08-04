@@ -1,0 +1,9 @@
+{
+  "domain": "limonsmp",
+  "owner": {
+    "username": "lemon20122"
+  },
+  "records": {
+    "CNAME": "limonsmp.mcsh.io"
+  }
+}
