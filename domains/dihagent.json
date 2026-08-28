@@ -1,0 +1,15 @@
+{
+  "title": "DihAgent",
+  "description": "DihSpeed trading-agent dashboard (paper trading bot), hosted on Railway.",
+  "domain": "creepers.pro",
+  "subdomain": "dihagent",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/onlydeployyyessss",
+    "email": "onlydeployyyessss@users.noreply.github.com"
+  },
+  "record": {
+    "CNAME": "dihspeed-production.up.railway.app"
+  },
+  "proxy": "false"
+}
