@@ -1,0 +1,16 @@
+{
+  "title": "Politaria Minecraft Map",
+  "description": "Interactive web map of the Politaria Minecraft server.",
+  "domain": "creepers.lol",
+  "subdomain": "map-politaria",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/meobourguignon-rgb",
+    "email": "meobourguignon@gmail.com",
+    "discord": "tuknut"
+  },
+  "record": {
+    "A": ["163.5.201.8"]
+  },
+  "proxy": "false"
+}
