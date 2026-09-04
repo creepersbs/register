@@ -1,0 +1,35 @@
+{
+  "title": "B2R Minecraft Server",
+  "description": "Minecraft server (ReIndev). b2r.creepers.pro points to the direct address, b2r.creepers.lol points to the tunnelled one.",
+  "domain": "creepers.pro",
+  "subdomain": "b2r",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/FLEXIY0",
+    "email": "fleeeeexiy@gmail.com"
+  },
+  "record": {
+    "A": [
+      "109.194.3.119"
+    ]
+  },
+  "proxy": "false",
+
+  "domain_2": "creepers.lol",
+  "record_2": {
+    "A": [
+      "176.223.133.253"
+    ],
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 10,
+        "weight": 60,
+        "ttl": "auto",
+        "port": 33642,
+        "target": "b2r.creepers.lol"
+      }
+    ]
+  },
+  "proxy_2": "false"
+}
