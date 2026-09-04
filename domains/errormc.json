@@ -1,0 +1,25 @@
+{
+  "title": "ErrorMC Minecraft Server",
+  "description": "ErrorMC Survival Minecraft Server",
+  "domain": "creepers.pro",
+  "subdomain": "errormc",
+  "country_code": "IN",
+  "owner": {
+    "github_user": "https://github.com/gamee71452-rgb",
+    "email": "gamee71452@gmail.com",
+    "discord": "optional"
+  },
+  "record": {
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 0,
+        "ttl": "auto",
+        "port": 25598,
+        "target": "in-1.areexcloud.site"
+      }
+    ]
+  },
+  "proxy": "false"
+}
