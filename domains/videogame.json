@@ -1,0 +1,30 @@
+{
+  "title": "VideoGame Minecraft Server",
+  "description": "Minecraft Java server using Velocity and Playit",
+  "domain": "creepers.sbs",
+  "subdomain": "videogame",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/nimaf92f",
+    "email": "nima.f92f@gmail.com"
+  },
+  "record": {
+    "spare_record": [
+      "none",
+      "A",
+      "none",
+      "none"
+    ],
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 0,
+        "ttl": "auto",
+        "port": 25565,
+        "target": "roosevelt-visions.tun.ply.gg"
+      }
+    ]
+  },
+  "proxy": "false"
+}
