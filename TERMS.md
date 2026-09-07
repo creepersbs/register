@@ -111,7 +111,7 @@ You agree **not to request or use** the following under any `creepers.sbs` root 
 
 2. **Shop / store / ecommerce** names that may appear official
 
-3. **Official Mimicry (Minecraft/Staff)** Since there are currently **no official creepers.sbs Minecraft servers**, names that imply official status are prohibited as root subdomains. This includes: `mc`, `play`, `smp`, `network`, `bedwars`, `staff`, `admin`.
+3. **Official Mimicry (Minecraft/Staff)** Since there are currently **no official creepers.sbs Minecraft servers**, names that imply official status are prohibited as root subdomains. This includes: `mc`, `play`, `smp`, `network`, `bedwars`, `staff`, `admin`...
    → Allowed: `mc.yourserver.creepers.sbs`
 
 4. **Official or system-related names** (`about`, `status`, `whois`, `translate`, or similar)
