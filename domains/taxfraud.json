@@ -1,0 +1,18 @@
+{
+  "title": "Tax Fraud",
+  "description": "The official website for the Revolutionary Socialists of Rutherford.",
+  "domain": ".lol",
+  "subdomain": "taxfraud",
+  "country_code": "none",
+
+  "owner": {
+    "github_user": "https://github.com/tomcdiver",
+    "email": "thedarkwolfnz@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "tomcdiver.github.io"
+  },
+
+  "proxy": "false"
+}
