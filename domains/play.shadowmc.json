@@ -1,15 +1,16 @@
 {
-  "title": "ErrorMC Minecraft Server",
-  "description": "ErrorMC Survival Minecraft Server",
+  "title": "SHADOW MC",
+  "description": "Minecraft Survival Server",
   "domain": "creepers.pro",
-  "subdomain": "errormc",
-  "country_code": "IN",
+  "subdomain": "play.shadowmc",
+  "country_code": "none",
   "owner": {
-    "github_user": "https://github.com/gamee71452-rgb",
-    "email": "gamee71452@gmail.com",
+    "github_user": "https://github.com/singhsagar714520-hub",
+    "email": "singhsagar714520@gmail.com ",
     "discord": "optional"
   },
   "record": {
+    "CNAME": "in-1.areexcloud.site",
     "SRV": [
       {
         "content": "_minecraft._tcp",
