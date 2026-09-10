@@ -1,0 +1,26 @@
+{
+  "title": "SHADOW MC",
+  "description": "Minecraft Survival Server",
+  "domain": "creepers.pro",
+  "subdomain": "play.shadowmc",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/singhsagar714520-hub",
+    "email": "singhsagar714520@gmail.com ",
+    "discord": "optional"
+  },
+  "record": {
+    "CNAME": "in-1.areexcloud.site",
+    "SRV": [
+      {
+        "content": "_minecraft._tcp",
+        "priority": 0,
+        "weight": 0,
+        "ttl": "auto",
+        "port": 25598,
+        "target": "in-1.areexcloud.site"
+      }
+    ]
+  },
+  "proxy": "false"
+}
