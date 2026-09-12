@@ -1,0 +1,18 @@
+{
+    "domain": "creepers.lol",
+    "subdomain": "affinix",
+    "owner": {
+        "repo": "https://github.com/butramenkoterentij45-del/register",
+        "email": "v47381863469@gmail.com"
+    },
+    "records": {
+        "SRV": [
+            {
+                "priority": 0,
+                "weight": 5,
+                "port": 24698,
+                "target": "olivia.hidencloud.com"
+            }
+        ]
+    }
+}
