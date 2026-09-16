@@ -1,0 +1,14 @@
+{
+    "description": "Minecraft Server Address Mapping",
+    "repo": "https://github.com",
+    "owner": {
+        "username": "oglife500",
+        "email": "jifarhan976@gmail.com"
+    },
+    "record": {
+        "A": [
+            "40.81.243.205"
+        ]
+    },
+    "proxied": false
+}
