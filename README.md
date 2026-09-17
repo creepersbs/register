@@ -2,7 +2,7 @@
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
 [![Terms](https://img.shields.io/badge/Terms-TERMS.md-blue)](https://github.com/creepersbs/register/blob/main/TERMS.md)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://choosealicense.com/licenses/mit/)
-[![Badge](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
+[![Badge](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.com)
 
 
 **creepers.sbs** ("creepers side-by-side") is a free subdomain provider operated by [**CreeperHUB**](https://creeperhub.net/creepersbs).  
@@ -43,11 +43,11 @@ It allows developers, Minecraft players, and server owners to personalize their 
 
 
 1. Visit the [`/register`](https://github.com/creepersbs/register) repository.
-2. [**`Star`**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) and [Fork](https://github.com/creepersbs/register/fork) the repo.
+2. [**`Star`**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) (*this is optional, I would apreciate it anyways*) and [**`Fork`**](https://github.com/creepersbs/register/fork) (*required*) the repo.
 3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder, named as your desired subdomain, e.g., `example.json`.
 4. Fill the file using the templates:
-   - Single TLD template: [**`template.json`**](https://github.com/creepersbs/register/blob/main/domains/template.json)  
-   - Complete template (both TLDs): [**`complete.template.json`**](https://github.com/creepersbs/register/blob/main/domains/complete.template.json)
+   - Single TLD template: [**`template.json`**](https://creeperhub.com/template.json)  
+   - Complete template (both TLDs): [**`complete.template.json`**](https://creeperhub.com/complete.template.json)
 5. [**Make a Pull Request**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and wait for approval. Subdomains usually go live within 24h–1 week.
 6. Enjoy your free subdomain! 🎉
 
@@ -82,7 +82,7 @@ It allows developers, Minecraft players, and server owners to personalize their 
 
 > [!WARNING]  
 > By using the service, you **automatically agree** to the Terms of Service.  
-> [**Click here to read them**](https://github.com/creepersbs/register/blob/main/TERMS.md)
+> [**Click here to read them**](https://github.com/creepersbs/register/blob/main/TERMS.md) - [**DOCS VERSION**](https://docs.creepers.sbs/policies/terms-of-service)
 
 ---
 
@@ -91,8 +91,8 @@ It allows developers, Minecraft players, and server owners to personalize their 
 If you encounter issues, need help or you want to transfer your subdomain to another account:
 
 - Open a GitHub Issue: [**here**](https://github.com/creepersbs/register/issues/new/choose)
-- Contact Form: [**here**](https://creeperhub.net/contact) *(must choose Email or Discord; Discord requires joining the official server)*
-- Discord server: [**Join here**](https://creepers.sbs/discord)
+- ~Contact Form: [**here**](https://creeperhub.net/contact) *(must choose Email or Discord; Discord requires joining the official server)*~ - **WEBSITE IN MAINTENANCE**
+- Discord server: [**Join here**](https://creepers.sbs/discord) - **ATM USE DISCORD TICKETS/MODMAIL**
 - High-risk security / DMCA / takedown requests: [**GitHub profile**](https://github.com/giocoliere)
 
 ---
