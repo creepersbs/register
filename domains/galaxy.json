@@ -1,0 +1,12 @@
+{
+    "$schema": "../assets/schema.json",
+    "description": "Minecraft Server via TCPShield",
+    "repo": "https://github.com",
+    "owner": {
+        "username": "dell",
+        "email": "skeletondragon192@gmail.com"
+    },
+    "record": {
+        "CNAME": "8591e8ab1814416f38092518439e2e8a.ipv4.tcpshield.com"
+    }
+}
