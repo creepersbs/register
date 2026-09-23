@@ -1,0 +1,17 @@
+{
+    "title": "Beam",
+    "description": "Beam - personal messaging and video-calling web app",
+    "domain": "creepers.sbs",
+    "subdomain": "beam1",
+    "country_code": "none",
+    "owner": {
+        "github_user": "https://github.com/theprojectmaker",
+        "email": "solomonsasson031@gmail.com",
+        "discord": "none"
+    },
+    "record": {
+        "spare_record": ["none"],
+        "CNAME": "beam-gateway.pages.dev"
+    },
+    "proxy": "false"
+}
