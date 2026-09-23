@@ -1,0 +1,15 @@
+{
+  "title": "Valodoka Games",
+  "description": "An educational and arcade gaming platform catalog hosted on GitHub Pages.",
+  "domain": "lol",
+  "subdomain": "valodoka",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/ValodokaGames",
+    "email": "valodokaunblockesgames@gmail.com"
+  },
+  "record": {
+    "CNAME": "valodokagames.github.io"
+  },
+  "proxy": "false"
+}
