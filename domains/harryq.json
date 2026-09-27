@@ -12,14 +12,14 @@
     },
 
     "record":{
-        "CNAME": "comet.pikamc.vn",
+        "CNAME": "mbasic8.pikamc.vn",
         "SRV": [{ 
             "content": "_minecraft._tcp", 
             "priority": 10, 
             "weight": 60, 
             "ttl": "auto", 
             "port": 26262, 
-            "target": "comet.pikamc.vn" 
+            "target": "mbasic8.pikamc.vn" 
         }]
     },
 
