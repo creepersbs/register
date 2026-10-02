@@ -1,0 +1,31 @@
+{
+    "title": "ItzMeShadow999",
+    "description": "Personal site and projects by ItzMeShadow999",
+    "domain": "creepers.sbs",
+    "subdomain": "shadow",
+
+    "country_code": "none",
+
+    "owner": {
+        "github_user": "https://github.com/ItzMeShadow999",
+        "email": "itzmeshadow90@gmail.com",
+        "discord": "@literally.shadow"
+    },
+
+    "record": {
+        "CNAME": "itzmeshadow.pages.dev"
+    },
+    "proxy": false,
+
+    "domain_2": ".pro",
+    "record_2": {
+        "CNAME": "itzmeshadow.pages.dev"
+    },
+    "proxy_2": false,
+
+    "domain_3": ".lol",
+    "record_3": {
+        "CNAME": "itzmeshadow.pages.dev"
+    },
+    "proxy_3": false
+}
