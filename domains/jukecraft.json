@@ -1,0 +1,20 @@
+{
+  "title": "Jukecraft",
+  "description": "Jukecraft is a site to make custom miusic disks, redirecting to the main site hosted on Vercel.",
+  "domain": "creepers.lol",
+  "subdomain": "jukecraft",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/datsmeYT",
+    "email": "funyunvr@proton.me"
+  },
+  "record": {
+    "spare_record": [
+      "TXT",
+      "_vercel",
+      "vc-domain-verify=jukecraft.creepers.lol,08777b059cec2d581f20"
+    ],
+    "CNAME": "192ea2d5d3133b0c.vercel-dns-017.com."
+  },
+  "proxy": "false"
+}
