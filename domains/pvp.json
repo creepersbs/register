@@ -1,0 +1,20 @@
+
+{
+  "title": "pvp",
+  "description": "mc pvp server on my laptop",
+  "domain": "creepers.lol",
+  "subdomain": "pvp",
+  "country_code": "FI",
+  "owner": {
+    "github_user": "https://github.com/v48530564",
+    "email": "v48530564@gmail.com"
+  },
+  "record": {
+    "spare_record": [
+      "SRV",
+      "_minecraft._tcp",
+      "1 1 44914 cairo-releasing.tun.ply.gg."
+    ]
+  },
+  "proxy": "false"
+}
