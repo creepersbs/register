@@ -1,0 +1,22 @@
+{   "title": "MC server", 
+    "description": "Subdomain for Minecraft server via TCPShield", 
+    "domain": "creepers.lol ", 
+    "subdomain": "specialforjenya", 
+
+"country_code": "none", 
+    
+    "owner": {
+        "github_user": "https://github.com/gr3ml1nchanin", 
+        "email": "kovping@gmail.com", 
+        "discord": "optional"
+        },
+
+                            
+    "record": {
+"spare_record": ["@", "TXT", "tcpshield-network-verification=YEOA4U5GMR6ZEYYS67L4WGVT73A6Y2D7RDHZZ56FZNGL3RZ2LCGSI5GNCYZB4SJ7K6SNNC65ZFEHE6BDI7AG34NQ67B4VTBTSNKOQLI="], 
+        "CNAME": " ae4b3aaa54a8650432d5fa4390debb82.ipv4.tcpshield.com"  
+    },
+        
+ "proxy": "false"
+    }
+
