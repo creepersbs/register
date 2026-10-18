@@ -13,13 +13,13 @@
     },
 
     "record": {
-        "HTTPS": "itzmeshadow.pages.dev"
+        "HTTPS": "shadow.creepers.lol"
     },
     "proxy": false,
 
     "domain_2": "creepers.pro",
     "record_2": {
-        "HTTPS": "itzmeshadow.pages.dev"
+        "HTTPS": "shadow.creepers.lol"
     },
     "proxy_2": false,
 
