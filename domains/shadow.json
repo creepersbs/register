@@ -13,13 +13,13 @@
     },
 
     "record": {
-        "CNAME": "itzmeshadow.pages.dev"
+        "HTTPS": "itzmeshadow.pages.dev"
     },
     "proxy": false,
 
     "domain_2": "creepers.pro",
     "record_2": {
-        "CNAME": "itzmeshadow.pages.dev"
+        "HTTPS": "itzmeshadow.pages.dev"
     },
     "proxy_2": false,
 
