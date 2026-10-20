@@ -1,0 +1,37 @@
+{
+  "title": "g4zwr",
+  "description": "Personal portfolio of g4zwr (aka gaze) - Roblox/Luau game development, music production and 2D/3D art. Static site hosted on GitHub Pages.",
+  "domain": "creepers.sbs",
+  "subdomain": "g4zwr",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/g4zwrr",
+    "email": "z3ivr0@gmail.com"
+  },
+  "record": {
+    "spare_record": "none",
+    "CNAME": "g4zwrr.github.io"
+  },
+  "proxy": "false",
+
+  "domain_2": "creepers.cloud",
+  "record_2": {
+    "spare_record": "none",
+    "CNAME": "g4zwrr.github.io"
+  },
+  "proxy_2": "false",
+
+  "domain_3": "creepers.pro",
+  "record_3": {
+    "spare_record": "none",
+    "CNAME": "g4zwrr.github.io"
+  },
+  "proxy_3": "false",
+
+  "domain_4": "creepers.lol",
+  "record_4": {
+    "spare_record": "none",
+    "CNAME": "g4zwrr.github.io"
+  },
+  "proxy_4": "false"
+}
