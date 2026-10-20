@@ -1,0 +1,22 @@
+{
+	"title": "Kayapata SMP Server - ClouDNS Integration",
+	"description": "Kayapata SMP custom subdomain with ClouDNS NS delegation",
+	"domain": "creepers.pro",
+	"subdomain": "kayapata",
+	"country_code": "none",
+	"owner": {
+		"github_user": "https://github.com/Sgdev-official",
+		"email": "sgdev@netc.fr",
+		"discord": "@sgdevofficial"
+	},
+	"record": {
+		"NS": [
+			"ns1.he.net ",
+			"ns2.he.net ",
+			"ns3.he.net ",
+			"ns4.he.net ",
+			"ns5.he.net "
+		]
+	},
+	"proxy": "false"
+}
