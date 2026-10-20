@@ -33,5 +33,12 @@
     "spare_record": "none",
     "CNAME": "g4zwrr.github.io"
   },
-  "proxy_4": "false"
+  "proxy_4": "false",
+
+   "domain_5": "a-dev.sbs",
+  "record_5": {
+    "spare_record": "none",
+    "CNAME": "g4zwrr.github.io"
+  },
+  "proxy_5": "false"
 }
