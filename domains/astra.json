@@ -9,11 +9,7 @@
     "email": "gls.kyle@icloud.com"
   },
   "record": {
-    "spare_record": [
-      "TXT",
-      "_vercel",
-      "vc-domain-verify=astra.creepers.lol,4846ab6f85895be39876"
-    ],
+    "spare_record": [ "none" ],
     "CNAME": "c43aedc1d8c42622.vercel-dns-017.com"
   },
   "proxy": "false"
