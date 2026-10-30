@@ -14,6 +14,6 @@
                                                                                                        
     "record": {
 "spare_record": ["none"], 
-        "CNAME": "giocoliere.github.io"  
+        "HTTPS": "https://github.com/giocoliere"  
     },
- "proxy": "false"
+ "proxy": "true"
