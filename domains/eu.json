@@ -2,14 +2,14 @@
   "title": "creepers.sbs - Free subdomains for everyone",
   "description": "EU REGION",
   "domain": "creepers.sbs",
-  "subdomain": "@",
+  "subdomain": "eu",
 
   "country_code": "eu",
   
   "owner": {
     "github_user": "https://github.com/creepersbs",
     "email": "hello@creeperhub.net",
-    "discord": "creeperhub"
+    "discord": "creativitatis"
   },
   "record": {
     "spare_record": ["none"],
