@@ -13,7 +13,9 @@
     },
                                                                                                        
     "record": {
-"spare_record": ["none"], 
+		"spare_record": ["none"], 
+		"spare_record_sparkly": ["TXT", "_vercel", "vc-domain-verify=sparkly.creepers.sbs,5dc993f3997c7b8684bb"],
+		"spare_record_maxvel": ["TXT", "_vercel", "vc-domain-verify=maxvel.creepers.sbs,9c1a193d2a9f9ec2cc97"],
         "CNAME": "creepersbs.github.io"  
     },
  "proxy": "false",
@@ -33,6 +35,8 @@
     "domain_3": "creepers.lol",
 	"record_3": {
 		"spare_record": ["none"],
+		"spare_record_jukecraft": ["TXT", "_vercel", "vc-domain-verify=jukecraft.creepers.lol,08777b059cec2d581f20"],
+		"spare_record_astra": ["TXT", "_vercel", "vc-domain-verify=astra.creepers.lol,4846ab6f85895be39876"],
 		"CNAME": "creepersbs.github.io"
 	},
 	"proxy_3": "false",
