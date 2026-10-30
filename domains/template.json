@@ -1,33 +1,27 @@
-{   "title": "Title of the Website", (REQUIRED. When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
-    "description": "Project / Website / Server Description", (REQUIRED. Describe what is the purpose of this subdomain)
-    "domain": "creepers.sbs /.cloud / .pro / .lol ", (REQUIRED. Choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
-    "subdomain": "example", (REQUIRED. In this case there should be template as this fiel is always the exact same as the file name)
+{   "title": "Title of the Service ([REQUIRED] Don't keep the text between parenthesis when making a PR, make sure to read it first and fill every category that says '[REQUIRED]', otherwise your subdomain won't be granted)", 
+    "description": "Project / Website / Server Description ([REQUIRED] Describe what is the purpose of this subdomain)", 
+    "domain": "creepers.sbs / creepers.cloud / creepers.pro / creepers.lol / a-dev.sbs ([REQUIRED] Choose which one you want to use first, don't put multiples in the same field as you can ask for the other ones copying the complete.template.json format)",
+    "subdomain": "template ([REQUIRED] This is the subdomain you're requesting, the same term that is put the file name itself)", 
 
-"country_code": "none", (REQUIRED. This decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
-    if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs. [[[AT THE MOMENT THERE AREN'T ENOUGH SUBDOMAINS TO DIVIDE THE SUBDOMAINS X ISO2 COUNTRY CODES,
-    WHICH MEANS THAT THIS COUNTRY CODE WILL BE USED AS ADDITIONAL INFO ABOUT YOUR SERVICE]]])
+"country_code": "none ([REQUIRED] This decides if your domain will go under any iso2 country code if in the future if we'll run out of space, if you type 'none' your subdomain will be put under the main route under the domain: yoursubdomain.domain.tld. [⚠️AS OF TODAY THIS COUNTRY CODE WILL BE USED AS ADDITIONAL INFO ABOUT YOUR SERVICE IN THE WHOIS TOOL⚠️])", 
     
     "owner": {
-        "github_user": "https://github.com/username", (REQUIRED. Has to be the user who's making the request)
-        "email": "cool_email@anywebsite.tld", (REQUIRED. To text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
-        "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support. Especially to transfer the subdomain to another person. 
-If you add this field you'll be contacted/can contact the support only if you're on the official CreeperHUB discord server) 
-    }, (then choose the records among A / AAAA / CNAME / NS / MX / TXT / etc... )                              
+        "github_user": "https://github.com/username ([REQUIRED] Has to be the user who's making the request, you can also put '@username' or simply 'username')", 
+        "email": "cool_email@anywebsite.tld ([REQUIRED] To text you if we have to take action on your domain, such as taking it down for illegal content/adult content/violating the TOS [!!WE WOULD SUGGEST A RANDOM EMAIL, AS EVERY INFO ON THIS REPO IS PUBLIC, YOU'VE BEEN ADVISED!!])", 
+        "discord": "username ([OPTIONAL] this '@username' field is optional but useful, it's a way to contact/be contacted by support. This allows you to transfer your subdomain to another person. The support needs to see you in the CreeperHUB discord server to reach you)" 
+    },                              
     "record": {
-"spare_record": ["none", "A / AAAA / CNAME / MX / etc...", "tld", "target"], (To avoid domain conflicts (such as having the same record in both CNAME and A), you can use this section 
-to choose the spare-record.(mainrecord).creepers.tld in the first field [none] and specify which record [A / AAAA / CNAME / MX / etc...] goes in that field, finally choose the target)
-(YOU ADD AS MANY SPARE RECORDS AS YOU WANT... JUST ADD COPY THE SECTION AND ADD / MODIFY THE NUMBERS AT THE END [spare_record_2 / spare_record_3 / etc...])
-           "A": ["1.1.1.1", "1.0.0.1"], (points to a IPv4 address) 
-        "AAAA": ["::1", "::2"],   (points to a IPv6 address) 
-        "CNAME": "anywebsite.tld",  (points to another sub/domain. ⚠️ CURRENTLY DOES NOT WORK WITH ANOTHER CLOUDFLARE ACCOUNT / WORKER, FOR THOSE USE ANY OTHER COUNTRY REGION EX .eu ⚠️) (As a reminder A CNAME cannot exist alongside any other domain with the same name unless it's a TXT record)
-        "MX": [ "mx1.anywebsite.tld", "mx2.anywebsite.tld" ],  (points to mail servers)
-        "NS": [ "ns1.anywebsite.tld", "ns2.anywebsite.tld", "ns3.anywebsite.tld", "ns4.anywebsite.tld", "ns5.anywebsite.tld" ], (points to Nameservers)
-        "TXT": ["thi_is_an_example_verification=012345678910"], (it's usually a domain verification)
-        "SRV": [                                                                                                                        (points to server, VoIP servers, MC servers...etc)
-            { "content": "_a_srv.record", "priority": 10, "weight": 60, "ttl": "auto", "port": 5060, "target": "mcsrv.anydomain.tld" },
-            { "content": "_a_srv.record", "priority": 20, "weight": 10, "ttl": "auto", "port": 5061, "target": "srv.anydomain.tld" }
+"spare_record": [ " A / TXT / AAAA / CNAME / MX /...",  "nested-subdomain", "content ([REQUIRED] To avoid domain conflicts (such as having the same record in both CNAME and A), you can use this section to choose the spare record, also called 'nested subdomain'(nested-subdomain.subdomain.domain.tld). In the first field specify which type of record goes in there, next put the name (in this example the final subdomain will be nested-subdomain.template.domain.tld) and finally insert the content) [YOU ADD AS MANY SPARE RECORDS AS YOU WANT, JUST ADD COPY THE SECTION AND ADD / MODIFY THE NUMBERS AT THE END [spare_record_2 / spare_record_3 /...]"], 
+           "A": "127.0 0.1 (points to a IPv4 address)", 
+        "AAAA": "2606:2800:220:1:248:1893:25c8:1946 (points to a IPv6 address, in this case example.com)",
+        "CNAME": "anywebsite.tld (points to another sub/domain. (⚠️ CURRENTLY YOU CAN USE ANOTHER CLOUDFLARE ACCOUNT / WORKER / PAGE ONLY WITH 'CREEPERS.LOL' I'M INVESTIGATING THE ISSUE ⚠️) As a reminder A CNAME cannot exist alongside any other record)",
+        "MX": [ "mx1.anywebsite.tld", "mx2.anywebsite.tld  (points to mail servers)" ], 
+        "NS": [ "ns1.anywebsite.tld", "ns2.anywebsite.tld", "ns3.anywebsite.tld", "ns4.anywebsite.tld", "ns5.anywebsite.tld (points to Nameservers, when you set the records to any NS you won't need to use Github PRs to update your subdomain, this will give you full ownership of the subdomain. [⚠️THIS ALSO MEANS THAT CH WON'T TAKE ANY RESPONSIBILITY FOR THE USE YOU DO WITH IT, THIS STILL MEANS THAT YOU WILL HAVE TO RESPECT OUR TERMS⚠️])" ], 
+        "TXT": "thi_is_an_example_verification=012345678910 (it's usually a domain verification, if your service (ex: VERCEL) requires you to verify your subdomain by inserting a _vercel record under the main domain then in your fork edit @.json adding a spare_record_(yourgithubusername) asking for a TXT record, it should look like this: ''spare_record_(youruser): ['TXT', '_vercel', 'vc-domain-verify=code']''",
+        "SRV": [                                                                                                                        
+            { "content": "_minecraft._tcp.mcsrv", "priority": 1, "weight": 1, "ttl": "auto", "port": "25565" , "target": "a-record-that-has-mc-server.anydomain.tld (this one (mcsrv.template.domain.tld) specifically points to a Minecraft Java server using TCP as example)" },
+            { "content": "_a_srv.record", "priority": 20, "weight": 10, "ttl": "auto", "port": 5061, "target": "srv.anydomain.tld (points to server, VoIP servers, MC servers...etc)" }
         ]
     },
- "proxy": "false/true" (REQUIRED. Choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
- (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs + .cloud] YOU CAN USE "complete.template.json" AS REFERENCE)
+ "proxy": "false/true ([REQUIRED] Choose if you want the proxy that cloudflare offers [COULD NOT WORK ON THE MAJORITY OF THE SERVICES, USE AT YOUR OWN RISK]. (IF YOU WANT TO REGISTER THE NAME YOU WANT WITH EVERY DOMAIN IN ONE SINGLE FILE YOU CAN USE 'complete.template.json' AS REFERENCE))" 
 }
