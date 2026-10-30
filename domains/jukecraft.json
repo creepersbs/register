@@ -9,11 +9,7 @@
     "email": "funyunvr@proton.me"
   },
   "record": {
-    "spare_record": [
-      "TXT",
-      "_vercel",
-      "vc-domain-verify=jukecraft.creepers.lol,08777b059cec2d581f20"
-    ],
+    "spare_record": [ "none" ],
     "CNAME": "192ea2d5d3133b0c.vercel-dns-017.com."
   },
   "proxy": "false"
