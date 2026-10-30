@@ -24,6 +24,12 @@
 			"A / AAAA / CNAME / MX / etc...",
             "target"
 		],
+        "spare_record_4": [
+			"RED",
+			"301",
+			"discord (discord.complete.template.creepers.sbs)",
+            "https://discord.gg/...."
+		],
 		"A": [
 			"1.1.1.1",
 			"1.0.0.1"
@@ -83,6 +89,12 @@
 			"A / AAAA / CNAME / MX / etc...",
             "target"
 		],
+        "spare_record_3": [
+			"RED",
+			"masked",
+			"test (test.complete.template.creepers.cloud)",
+            "http://mysinglepagewebsite-notsecure.tld/..."
+		],
 		"A": [
 			"1.1.1.1",
 			"1.0.0.1"
@@ -141,6 +153,12 @@
 			"A / AAAA / CNAME / MX / etc...",
             "target"
 		],
+        "spare_record_3": [
+			"RED",
+			"302",
+			"mcprofile (mcprofile.complete.template.creepers.pro)",
+            "https://namemc.com/..."
+		],
 		"A": [
 			"1.1.1.1",
 			"1.0.0.1"
@@ -198,6 +216,12 @@
 			"A / AAAA / CNAME / MX / etc...",
             "target"
 		],
+        "spare_record_3": [
+			"RED",
+			"307",
+			"fb (fb.complete.template.creepers.lol)",
+            "https://facebook.com/newusername..."
+		],
 		"A": [
 			"1.1.1.1",
 			"1.0.0.1"
@@ -254,6 +278,11 @@
 			"yetanotherone (yetanotherone.complete.template.a-dev.sbs)",
 			"A / AAAA / CNAME / MX / etc...",
             "target"
+		],
+        "spare_record_3": [
+			"RED",
+			"bio (bio.complete.template.a-dev.sbs)",
+            "https://linktr.ee/..."
 		],
 		"A": [
 			"1.1.1.1",
