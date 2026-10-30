@@ -1,0 +1,22 @@
+{
+	"title": "SG DEV - A fullstack web dev ",
+	"description": "I want A cool Subdomain for my all cool projects ",
+	"domain": "creepers.pro",
+	"subdomain": "sgdev",
+	"country_code": "none",
+	"owner": {
+		"github_user": "https://github.com/Sgdev-official",
+		"email": "admin@sgdev.qd.je",
+		"discord": "@sgdevofficial"
+	},
+	"record": {
+		"NS": [
+			"ns1.he.net ",
+			"ns2.he.net ",
+			"ns3.he.net ",
+			"ns4.he.net ",
+			"ns5.he.net "
+		]
+	},
+	"proxy": "false"
+}
