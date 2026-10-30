@@ -1,5 +1,5 @@
-{   "title": "A personal Documentation website",
-    "description": "Documentation test for docusaurus",
+{   "title": "A Test",
+    "description": "An api test for a private dashboard",
     "domain": "creepers.sbs",
     "subdomain": "gioco",
 
@@ -9,21 +9,11 @@
     "owner": {
         "github_user": "https://github.com/giocoliere",
         "email": "giocoliere@proton.me",
-        "discord": "giocoliere"
+        "discord": ".giocoliere"
     },
                                                                                                        
     "record": {
 "spare_record": ["none"], 
-        "CNAME": "gioco-docs.netlify.app"  
+        "CNAME": "giocoliere.github.io"  
     },
- "proxy": "false",
-
-
-    
-    "domain_2": "creepers.cloud",
-	"record_2": {
-		"spare_record": ["none"],
-		"CNAME": "gioco-docs.netlify.app"
-	},
-	"proxy_2": "false"
-}
+ "proxy": "false"
