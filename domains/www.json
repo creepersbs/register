@@ -9,7 +9,7 @@
     "owner": {
         "github_user": "https://github.com/creepersbs",
         "email": "hello@creeperhub.net",
-        "discord": "creeperhub"
+        "discord": "creativitatis"
     },
                                                                                                        
     "record": {
@@ -25,7 +25,34 @@
 		"spare_record": ["none"],
 		"CNAME": "creepersbs.github.io"
 	},
-	"proxy_2": "false"
+	"proxy_2": "false",
+
+
+    
+    "domain_3": "creepers.lol",
+	"record_3": {
+		"spare_record": ["none"],
+		"CNAME": "creepersbs.github.io"
+	},
+	"proxy_3": "false",
+
+
+    
+    "domain_4": "creepers.pro",
+	"record_4": {
+		"spare_record": ["none"],
+		"CNAME": "creepersbs.github.io"
+	},
+	"proxy_4": "false",
+
+
+    
+    "domain_5": "a-dev.sbs",
+	"record_5": {
+		"spare_record": ["none"],
+		"CNAME": "creepersbs.github.io"
+	},
+	"proxy_5": "false"
 }
 
 
