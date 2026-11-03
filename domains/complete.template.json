@@ -279,6 +279,12 @@
 			"A / AAAA / CNAME / MX / etc...",
             "target"
 		],
+		"spare_record_3":[
+			"slow-redirect (slowredirect.complete.template.a-dev.sbs)",
+			"RED",
+			"masked",
+			"https://slowest.website.in.the.world"
+		],
 		"A": [
 			"1.1.1.1",
 			"1.0.0.1"
