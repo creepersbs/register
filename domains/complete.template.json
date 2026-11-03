@@ -20,9 +20,9 @@
             "target"
 		],
         "spare_record_3": [
-			"docs (docs.complete.template.creepers.sbs)",
-			"A / AAAA / CNAME / MX / etc...",
-            "target"
+			"RED",
+			"bio (bio.complete.template.creepers.sbs)",
+            "https://linktr.ee/..."
 		],
         "spare_record_4": [
 			"RED",
@@ -278,11 +278,6 @@
 			"yetanotherone (yetanotherone.complete.template.a-dev.sbs)",
 			"A / AAAA / CNAME / MX / etc...",
             "target"
-		],
-        "spare_record_3": [
-			"RED",
-			"bio (bio.complete.template.a-dev.sbs)",
-            "https://linktr.ee/..."
 		],
 		"A": [
 			"1.1.1.1",
