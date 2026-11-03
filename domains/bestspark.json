@@ -1,0 +1,56 @@
+{   "title": "BestSpark's Site",
+	"description": "games site.",
+	"domain": "creepers.sbs",
+	"subdomain": "sprk",
+	"country_code": "none",
+	"owner": {
+		"github_user": "https://github.com/BestSpark687090",
+		"email": "bestspark@bestspark.org",
+		"discord": "@bestspark687090"
+	},
+	"record": {
+		"A": [
+			"15.204.67.205"
+    ]
+	},
+	"proxy": "false",
+
+
+    
+    "domain_2": "creepers.cloud",
+	"record_2": {
+		"A": [
+			"15.204.67.205"
+    ]
+	},
+	"proxy_2": "false",
+
+
+
+	"domain_3": "creepers.pro",
+	"record_3": {
+		"A": [
+			"15.204.67.205"
+    ]
+	},
+	"proxy_3": "false",
+
+
+	"domain_4": "creepers.lol",
+	"record_4": {
+		"A": [
+			"15.204.67.205"
+    ]
+	},
+	"proxy_4": "false",
+
+
+	"domain_5": "a-dev.sbs",
+	"record_5": {
+		"A": [
+			"15.204.67.205"
+    ]
+	},
+	"proxy_5": "false"
+
+}
