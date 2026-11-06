@@ -1,0 +1,15 @@
+{
+  "title": "VPN Proxy Server",
+  "description": "Personal VPN and proxy server endpoint.",
+  "domain": "a-dev.sbs",
+  "subdomain": "feng",
+  "country_code": "none",
+  "owner": {
+    "github_user": "alpayedddd",
+    "email": "alpayedddd@gmail.com"
+  },
+  "record": {
+    "CNAME": "fenglikethis1.pages.dev"
+  },
+  "proxy": "true"
+}
