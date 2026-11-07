@@ -1,0 +1,18 @@
+{
+  "title": "Yues Personal Project Homepage",
+  "description": "A live personal project homepage and portfolio for open-source experiments, domain health status, and project documentation, hosted on the existing Kango99w Cloudflare Pages homepage.",
+  "domain": "creepers.lol",
+  "subdomain": "yues",
+  "country_code": "none",
+  "owner": {
+    "github_user": "https://github.com/initial2024",
+    "email": "kango99w@gmail.com"
+  },
+  "record": {
+    "spare_record": [
+      "none"
+    ],
+    "CNAME": "kango99w-homepage.pages.dev"
+  },
+  "proxy": "false"
+}
