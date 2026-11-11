@@ -1,7 +1,7 @@
 
 # 📌 Type of Pull Request
 
-*(Please check one by putting and "x" betwenn the [ ] (Delete the space while putting the x))* 
+*(Please check one by putting and "x" between the [ ] (Delete the space while putting the x))* 
 
 - [ ] New Subdomain Request
 - [ ] Update / Change DNS Records
@@ -43,7 +43,7 @@ By submitting this Pull Request, I confirm that:
 - [ ] I understand that I am solely responsible for DNS configuration and content hosted on this subdomain  
 - [ ] All information provided is accurate and truthful  
 
-*(Please check one by putting and "x" betwenn the [ ] again)*
+*(Please check once again by putting and "x" between the [ ])*
 
 ---
 
