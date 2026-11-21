@@ -1,7 +1,7 @@
 {
     "title": "Creeper Network Java Server",
     "description": "Minecraft Java Edition server for Creeper Network",
-    "domain": "creepers.sbs",
+    "domain": "creepers.lol",
     "subdomain": "java",
     "country_code": "none",
     "owner": {
@@ -18,7 +18,7 @@
                 "weight": 1,
                 "ttl": "auto",
                 "port": "20048",
-                "target": "java.creepers.sbs"
+                "target": "java.creepers.lol"
             }
         ]
     },
