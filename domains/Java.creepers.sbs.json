@@ -1,0 +1,26 @@
+{
+    "title": "Creeper Network Java Server",
+    "description": "Minecraft Java Edition server for Creeper Network",
+    "domain": "creepers.lol",
+    "subdomain": "java",
+    "country_code": "none",
+    "owner": {
+        "github_user": "alamien060512-alt",
+        "email": "al.amien060512@gmail.com",
+        "discord": "imnothungry.12"
+    },
+    "record": {
+        "A": "136.243.148.32",
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 1,
+                "weight": 1,
+                "ttl": "auto",
+                "port": "20048",
+                "target": "java.creepers.lol"
+            }
+        ]
+    },
+    "proxy": "false"
+}
