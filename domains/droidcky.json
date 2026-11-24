@@ -1,0 +1,14 @@
+{
+  "title": "DroidCky",
+  "description": "Free Niche TAS engine for Geometry Dash",
+  "domain": "creepers.lol",
+  "subdomain": "droidcky",
+  "country_code": "ph",
+  "owner": {
+    "github_user": "https://github.com/chxrcky-tool2"
+  },
+  "record": {
+    "CNAME": "chxrcky-tool2.github.io"
+  },
+  "proxy": "false"
+}
